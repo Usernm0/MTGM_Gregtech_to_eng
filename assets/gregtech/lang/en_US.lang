@@ -1,0 +1,1275 @@
+gt.blockmachines.boiler.bronze.name=LP Steam Coal Boiler
+gt.blockmachines.boiler.lava.name=HP Steam Lava Boiler
+gt.blockmachines.boiler.solar.name=LP Steam Solar Boiler
+gt.blockmachines.boiler.steel.name=HP Steam Coal Boiler
+
+gt.blockmachines.bronzemachine.alloysmelter.name=LP Steam Alloy Smelter
+gt.blockmachines.bronzemachine.compressor.name=LP Steam Compressor
+gt.blockmachines.bronzemachine.extractor.name=LP Steam Extractor
+gt.blockmachines.bronzemachine.furnace.name=LP Steam Furnace
+gt.blockmachines.bronzemachine.hammer.name=LP Steam Forge Hammer
+gt.blockmachines.bronzemachine.macerator.name=LP Steam Macerator
+
+gt.blockmachines.hpmachine.alloysmelter.name=HP Steam Alloy Smelter
+gt.blockmachines.hpmachine.compressor.name=HP Steam Compressor
+gt.blockmachines.hpmachine.extractor.name=HP Steam Extractor
+gt.blockmachines.hpmachine.furnace.name=HP Steam Furnace
+gt.blockmachines.hpmachine.hammer.name=HP Steam Forge Hammer
+gt.blockmachines.hpmachine.macerator.name=HP Steam Macerator
+
+gt.blockmachines.advancedgenerator.geothermalfuel.tier.01.name=Generator EV Geothermal Engine
+gt.blockmachines.advancedgenerator.geothermalfuel.tier.02.name=Generator IV Geothermal Engine
+gt.blockmachines.advancedgenerator.geothermalfuel.tier.03.name=Generator LuV Geothermal Engine
+
+gt.blockmachines.basicgenerator.diesel.tier.01.name=Generator LV Diesel
+gt.blockmachines.basicgenerator.diesel.tier.02.name=Generator MV Diesel
+gt.blockmachines.basicgenerator.diesel.tier.03.name=Generator HV Diesel
+gt.blockmachines.advancedgenerator.rocketfuel.tier.01.name=Generator EV Diesel
+gt.blockmachines.advancedgenerator.rocketfuel.tier.02.name=Generator IV Diesel
+gt.blockmachines.advancedgenerator.rocketfuel.tier.03.name=Generator LuV Diesel
+
+gt.blockmachines.basicgenerator.gasturbine.tier.01.name=Generator LV Gas Turbine
+gt.blockmachines.basicgenerator.gasturbine.tier.02.name=Generator MV Gas Turbine
+gt.blockmachines.basicgenerator.gasturbine.tier.03.name=Generator HV Gas Turbine
+
+gt.blockmachines.basicgenerator.semifluid.tier.01.name=Generator LV Semi-Fluid
+gt.blockmachines.basicgenerator.semifluid.tier.02.name=Generator MV Semi-Fluid
+gt.blockmachines.basicgenerator.semifluid.tier.03.name=Generator HV Semi-Fluid
+
+gt.blockmachines.basicgenerator.steamturbine.tier.01.name=Generator LV Steam Turbine
+gt.blockmachines.basicgenerator.steamturbine.tier.02.name=Generator MV Steam Turbine
+gt.blockmachines.basicgenerator.steamturbine.tier.03.name=Generator HV Steam Turbine
+
+gt.blockmachines.basicgenerator.lightningrod.03.name=Generator HV Lightning Rod
+gt.blockmachines.basicgenerator.lightningrod.04.name=Generator EV Lightning Rod
+gt.blockmachines.basicgenerator.lightningrod.05.name=Generator IV Lightning Rod
+
+gt.blockmachines.basicgenerator.magicenergyabsorber.tier.01.name=Generator LV Absorber Magic Energy
+gt.blockmachines.basicgenerator.magicenergyabsorber.tier.02.name=Generator MV Absorber Magic Energy
+gt.blockmachines.basicgenerator.magicenergyabsorber.tier.03.name=Generator HV Absorber Magic Energy
+gt.blockmachines.basicgenerator.magicenergyabsorber.tier.04.name=Generator EV Absorber Magic Energy
+
+gt.blockmachines.basicgenerator.magicenergyconverter.tier.01.name=Generator LV Converter Magic Energy
+gt.blockmachines.basicgenerator.magicenergyconverter.tier.02.name=Generator MV Converter Magic Energy
+gt.blockmachines.basicgenerator.magicenergyconverter.tier.03.name=Generator HV Converter Magic Energy
+
+gt.blockmachines.basicgenerator.naquadah.tier.04.name=Generator EV Naquadah Reactor
+gt.blockmachines.basicgenerator.naquadah.tier.05.name=Generator IV Naquadah Reactor
+gt.blockmachines.basicgenerator.naquadah.tier.06.name=Generator LuV Naquadah Reactor
+gt.blockmachines.basicgenerator.naquadah.tier.07.name=Generator ZPM Naquadah Reactor
+gt.blockmachines.basicgenerator.naquadah.tier.08.name=Generator UV Naquadah Reactor
+
+gt.blockmachines.basicgenerator.plasmagenerator.tier.05.name=Generator EV Plasma
+gt.blockmachines.basicgenerator.plasmagenerator.tier.06.name=Generator IV Plasma
+gt.blockmachines.basicgenerator.plasmagenerator.tier.07.name=Generator LuV Plasma
+gt.blockmachines.basicgenerator.plasmagenerator.tier.08.name=Generator ZPM Plasma
+gt.blockmachines.basicgenerator.plasmagenerator.tier.09.name=Generator UV Plasma
+
+gt.blockmachines.basicgenerator.rtg.tier.01.name=Generator Radioisotope Thermoelectric (RTG)
+
+gt.blockmachines.automation.chestbuffer.tier.00.name=ULV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.01.name=LV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.02.name=MV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.03.name=HV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.04.name=EV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.05.name=IV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.06.name=LuV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.07.name=ZPM Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.08.name=UV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.09.name=UHV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.10.name=UEV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.11.name=UIV Chest Buffer
+gt.blockmachines.automation.chestbuffer.tier.12.name=UMV Chest Buffer
+
+gt.blockmachines.automation.filter.tier.00.name=ULV Item Filter
+gt.blockmachines.automation.filter.tier.01.name=LV Item Filter
+gt.blockmachines.automation.filter.tier.02.name=MV Item Filter
+gt.blockmachines.automation.filter.tier.03.name=HV Item Filter
+gt.blockmachines.automation.filter.tier.04.name=EV Item Filter
+gt.blockmachines.automation.filter.tier.05.name=IV Item Filter
+gt.blockmachines.automation.filter.tier.06.name=LuV Item Filter
+gt.blockmachines.automation.filter.tier.07.name=ZPM Item Filter
+gt.blockmachines.automation.filter.tier.08.name=UV Item Filter
+gt.blockmachines.automation.filter.tier.09.name=UHV Item Filter
+
+gt.blockmachines.automation.itemdistributor.tier.00.name=ULV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.01.name=LV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.02.name=MV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.03.name=HV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.04.name=EV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.05.name=IV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.06.name=LuV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.07.name=ZPM Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.08.name=UV Item Distributor
+gt.blockmachines.automation.itemdistributor.tier.09.name=UHV Item Distributor
+
+gt.blockmachines.automation.regulator.tier.00.name=ULV Regulator
+gt.blockmachines.automation.regulator.tier.01.name=LV Regulator
+gt.blockmachines.automation.regulator.tier.02.name=MV Regulator
+gt.blockmachines.automation.regulator.tier.03.name=HV Regulator
+gt.blockmachines.automation.regulator.tier.04.name=EV Regulator
+gt.blockmachines.automation.regulator.tier.05.name=IV Regulator
+gt.blockmachines.automation.regulator.tier.06.name=LuV Regulator
+gt.blockmachines.automation.regulator.tier.07.name=ZPM Regulator
+gt.blockmachines.automation.regulator.tier.08.name=UV Regulator
+gt.blockmachines.automation.regulator.tier.09.name=UHV Regulator
+
+gt.blockmachines.automation.superbuffer.tier.00.name=ULV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.01.name=LV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.02.name=MV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.03.name=HV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.04.name=EV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.05.name=IV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.06.name=LuV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.07.name=ZPM Super Buffer
+gt.blockmachines.automation.superbuffer.tier.08.name=UV Super Buffer
+gt.blockmachines.automation.superbuffer.tier.09.name=UHV Super Buffer
+
+gt.blockmachines.automation.typefilter.tier.00.name=ULV Type Filter
+gt.blockmachines.automation.typefilter.tier.01.name=LV Type Filter
+gt.blockmachines.automation.typefilter.tier.02.name=MV Type Filter
+gt.blockmachines.automation.typefilter.tier.03.name=HV Type Filter
+gt.blockmachines.automation.typefilter.tier.04.name=EV Type Filter
+gt.blockmachines.automation.typefilter.tier.05.name=IV Type Filter
+gt.blockmachines.automation.typefilter.tier.06.name=LuV Type Filter
+gt.blockmachines.automation.typefilter.tier.07.name=ZPM Type Filter
+gt.blockmachines.automation.typefilter.tier.08.name=UV Type Filter
+gt.blockmachines.automation.typefilter.tier.09.name=UHV Type Filter
+
+gt.blockmachines.advancedmachine.dehydrator.tier.01.name=EV Chemical Dehydrator
+gt.blockmachines.advancedmachine.dehydrator.tier.02.name=IV Chemical Dehydrator
+gt.blockmachines.advancedmachine.dehydrator.tier.03.name=LuV Chemical Dehydrator
+gt.blockmachines.advancedmachine.dehydrator.tier.04.name=ZPM Chemical Dehydrator
+
+gt.blockmachines.advancedmachine.mixer.tier.01.name=LV Combiner
+gt.blockmachines.advancedmachine.mixer.tier.02.name=MV Combiner
+gt.blockmachines.advancedmachine.mixer.tier.03.name=HV Combiner
+gt.blockmachines.advancedmachine.mixer.tier.04.name=EV Combiner
+gt.blockmachines.advancedmachine.mixer.tier.05.name=IV Combiner
+
+gt.blockmachines.basicmachine.accelerator.tier.01.name=LV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.02.name=MV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.03.name=HV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.04.name=EV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.05.name=IV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.06.name=LuV World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.07.name=ZPM World Accelerator
+gt.blockmachines.basicmachine.accelerator.tier.08.name=UV World Accelerator
+
+gt.blockmachines.basicmachine.alloysmelter.tier.01.name=LV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.02.name=MV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.03.name=HV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.04.name=EV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.05.name=IV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.06.name=LuV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.07.name=ZPM Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.08.name=UV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.09.name=UHV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.10.name=UEV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.11.name=UIV Alloy Smelter
+gt.blockmachines.basicmachine.alloysmelter.tier.12.name=UMV Alloy Smelter
+
+gt.blockmachines.basicmachine.amplifab.tier.01.name=LV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.02.name=MV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.03.name=HV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.04.name=EV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.05.name=IV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.06.name=LuV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.07.name=ZPM Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.08.name=UV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.09.name=UHV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.10.name=UEV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.11.name=UIV Amplifabricator
+gt.blockmachines.basicmachine.amplifab.tier.12.name=UMV Amplifabricator
+                                                    
+gt.blockmachines.basicmachine.arcfurnace.tier.01.name=LV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.02.name=MV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.03.name=HV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.04.name=EV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.05.name=IV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.06.name=LuV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.07.name=ZPM Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.08.name=UV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.09.name=UHV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.10.name=UEV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.11.name=UIV Arc Furnace
+gt.blockmachines.basicmachine.arcfurnace.tier.12.name=UMV Arc Furnace
+
+gt.blockmachines.basicmachine.assembler.tier.01.name=LV Assembler
+gt.blockmachines.basicmachine.assembler.tier.02.name=MV Assembler
+gt.blockmachines.basicmachine.assembler.tier.03.name=HV Assembler
+gt.blockmachines.basicmachine.assembler.tier.04.name=EV Assembler
+gt.blockmachines.basicmachine.assembler.tier.05.name=IV Assembler
+gt.blockmachines.basicmachine.assembler.tier.06.name=LuV Assembler
+gt.blockmachines.basicmachine.assembler.tier.07.name=ZPM Assembler
+gt.blockmachines.basicmachine.assembler.tier.08.name=UV Assembler
+gt.blockmachines.basicmachine.assembler.tier.09.name=UHV Assembler
+gt.blockmachines.basicmachine.assembler.tier.10.name=UEV Assembler
+gt.blockmachines.basicmachine.assembler.tier.11.name=UIV Assembler
+gt.blockmachines.basicmachine.assembler.tier.12.name=UMV Assembler
+
+gt.blockmachines.basicmachine.autoclave.tier.01.name=LV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.02.name=MV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.03.name=HV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.04.name=EV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.05.name=IV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.06.name=LuV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.07.name=ZPM Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.08.name=UV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.09.name=UHV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.10.name=UEV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.11.name=UIV Autoclave
+gt.blockmachines.basicmachine.autoclave.tier.12.name=UMV Autoclave
+
+gt.blockmachines.basicmachine.bender.tier.01.name=LV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.02.name=MV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.03.name=HV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.04.name=EV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.05.name=IV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.06.name=LuV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.07.name=ZPM Bending Machine
+gt.blockmachines.basicmachine.bender.tier.08.name=UV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.09.name=UHV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.10.name=UEV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.11.name=UIV Bending Machine
+gt.blockmachines.basicmachine.bender.tier.12.name=UMV Bending Machine
+
+gt.blockmachines.basicmachine.boxinator.tier.01.name=LV Packager
+gt.blockmachines.basicmachine.boxinator.tier.02.name=MV Packager
+gt.blockmachines.basicmachine.boxinator.tier.03.name=HV Packager
+gt.blockmachines.basicmachine.boxinator.tier.04.name=EV Packager
+gt.blockmachines.basicmachine.boxinator.tier.05.name=IV Packager
+
+gt.blockmachines.basicmachine.brewery.tier.01.name=LV Brewery
+gt.blockmachines.basicmachine.brewery.tier.02.name=MV Brewery
+gt.blockmachines.basicmachine.brewery.tier.03.name=HV Brewery
+gt.blockmachines.basicmachine.brewery.tier.04.name=EV Brewery
+gt.blockmachines.basicmachine.brewery.tier.05.name=IV Brewery
+gt.blockmachines.basicmachine.brewery.tier.06.name=LuV Brewery
+gt.blockmachines.basicmachine.brewery.tier.07.name=ZPM Brewery
+gt.blockmachines.basicmachine.brewery.tier.08.name=UV Brewery
+gt.blockmachines.basicmachine.brewery.tier.09.name=UHV Brewery
+gt.blockmachines.basicmachine.brewery.tier.10.name=UEV Brewery
+gt.blockmachines.basicmachine.brewery.tier.11.name=UIV Brewery
+gt.blockmachines.basicmachine.brewery.tier.12.name=UMV Brewery
+
+gt.blockmachines.basicmachine.canner.tier.01.name=LV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.02.name=MV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.03.name=HV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.04.name=EV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.05.name=IV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.06.name=LuV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.07.name=ZPM Canning Machine
+gt.blockmachines.basicmachine.canner.tier.08.name=UV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.09.name=UHV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.10.name=UEV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.11.name=UIV Canning Machine
+gt.blockmachines.basicmachine.canner.tier.12.name=UMV Canning Machine
+
+gt.blockmachines.basicmachine.centrifuge.tier.01.name=LV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.02.name=MV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.03.name=HV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.04.name=EV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.05.name=IV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.06.name=LuV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.07.name=ZPM Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.08.name=UV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.09.name=UHV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.10.name=UEV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.11.name=UIV Centrifuge
+gt.blockmachines.basicmachine.centrifuge.tier.12.name=UMV Centrifuge
+
+gt.blockmachines.basicmachine.chemicalbath.tier.01.name=LV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.02.name=MV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.03.name=HV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.04.name=EV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.05.name=IV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.06.name=LuV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.07.name=ZPM Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.08.name=UV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.09.name=UHV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.10.name=UEV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.11.name=UIV Chemical Bath
+gt.blockmachines.basicmachine.chemicalbath.tier.12.name=UMV Chemical Bath
+
+gt.blockmachines.basicmachine.chemicalreactor.tier.01.name=LV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.02.name=MV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.03.name=HV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.04.name=EV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.05.name=IV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.06.name=LuV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.07.name=ZPM Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.08.name=UV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.09.name=UHV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.10.name=UEV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.11.name=UIV Chemical Reactor
+gt.blockmachines.basicmachine.chemicalreactor.tier.12.name=UMV Chemical Reactor
+
+gt.blockmachines.basicmachine.circuitassembler.tier.01.name=LV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.02.name=MV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.03.name=HV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.04.name=EV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.05.name=IV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.06.name=LuV Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.07.name=ZPM Circuit Assembler
+gt.blockmachines.basicmachine.circuitassembler.tier.08.name=UV Circuit Assembler
+
+gt.blockmachines.basicmachine.componentmaker.tier.01.name=LV Component Maker
+gt.blockmachines.basicmachine.componentmaker.tier.02.name=MV Component Maker
+gt.blockmachines.basicmachine.componentmaker.tier.03.name=HV Component Maker
+gt.blockmachines.basicmachine.componentmaker.tier.04.name=EV Component Maker
+gt.blockmachines.basicmachine.componentmaker.tier.05.name=IV Component Maker
+
+gt.blockmachines.basicmachine.compressor.tier.01.name=LV Compressor
+gt.blockmachines.basicmachine.compressor.tier.02.name=MV Compressor
+gt.blockmachines.basicmachine.compressor.tier.03.name=HV Compressor
+gt.blockmachines.basicmachine.compressor.tier.04.name=EV Compressor
+gt.blockmachines.basicmachine.compressor.tier.05.name=IV Compressor
+gt.blockmachines.basicmachine.compressor.tier.06.name=LuV Compressor
+gt.blockmachines.basicmachine.compressor.tier.07.name=ZPM Compressor
+gt.blockmachines.basicmachine.compressor.tier.08.name=UV Compressor
+gt.blockmachines.basicmachine.compressor.tier.09.name=UHV Compressor
+gt.blockmachines.basicmachine.compressor.tier.10.name=UEV Compressor
+gt.blockmachines.basicmachine.compressor.tier.11.name=UIV Compressor
+gt.blockmachines.basicmachine.compressor.tier.12.name=UMV Compressor
+
+gt.blockmachines.basicmachine.cutter.tier.01.name=LV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.02.name=MV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.03.name=HV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.04.name=EV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.05.name=IV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.06.name=LuV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.07.name=ZPM Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.08.name=UV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.09.name=UHV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.10.name=UEV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.11.name=UIV Cutting Machine
+gt.blockmachines.basicmachine.cutter.tier.12.name=UMV Cutting Machine
+
+gt.blockmachines.basicmachine.disassembler.tier.01.name=LV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.02.name=MV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.03.name=HV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.04.name=EV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.05.name=IV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.06.name=LuV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.07.name=ZPM Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.08.name=UV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.09.name=UHV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.10.name=UEV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.11.name=UIV Disassembler
+gt.blockmachines.basicmachine.disassembler.tier.12.name=UMV Disassembler
+
+gt.blockmachines.basicmachine.distillery.tier.01.name=LV Distillery
+gt.blockmachines.basicmachine.distillery.tier.02.name=MV Distillery
+gt.blockmachines.basicmachine.distillery.tier.03.name=HV Distillery
+gt.blockmachines.basicmachine.distillery.tier.04.name=EV Distillery
+gt.blockmachines.basicmachine.distillery.tier.05.name=IV Distillery
+gt.blockmachines.basicmachine.distillery.tier.06.name=LuV Distillery
+gt.blockmachines.basicmachine.distillery.tier.07.name=ZPM Distillery
+gt.blockmachines.basicmachine.distillery.tier.08.name=UV Distillery
+gt.blockmachines.basicmachine.distillery.tier.09.name=UHV Distillery
+gt.blockmachines.basicmachine.distillery.tier.10.name=UEV Distillery
+gt.blockmachines.basicmachine.distillery.tier.11.name=UIV Distillery
+gt.blockmachines.basicmachine.distillery.tier.12.name=UMV Distillery
+
+gt.blockmachines.basicmachine.e_furnace.tier.01.name=LV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.02.name=MV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.03.name=HV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.04.name=EV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.05.name=IV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.06.name=LuV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.07.name=ZPM Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.08.name=UV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.09.name=UHV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.10.name=UEV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.11.name=UIV Electric Furnace
+gt.blockmachines.basicmachine.e_furnace.tier.12.name=UMV Electric Furnace
+
+gt.blockmachines.basicmachine.e_oven.tier.01.name=LV Electric Oven
+gt.blockmachines.basicmachine.e_oven.tier.02.name=MV Electric Oven
+gt.blockmachines.basicmachine.e_oven.tier.03.name=HV Electric Oven
+gt.blockmachines.basicmachine.e_oven.tier.04.name=EV Electric Oven
+gt.blockmachines.basicmachine.e_oven.tier.05.name=IV Electric Oven
+
+gt.blockmachines.basicmachine.electrolyzer.tier.01.name=LV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.02.name=MV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.03.name=HV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.04.name=EV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.05.name=IV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.06.name=LuV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.07.name=ZPM Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.08.name=UV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.09.name=UHV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.10.name=UEV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.11.name=UIV Electrolyzer
+gt.blockmachines.basicmachine.electrolyzer.tier.12.name=UMV Electrolyzer
+
+gt.blockmachines.basicmachine.electromagneticseparator.tier.01.name=LV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.02.name=MV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.03.name=HV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.04.name=EV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.05.name=IV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.06.name=LuV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.07.name=ZPM Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.08.name=UV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.09.name=UHV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.10.name=UEV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.11.name=UIV Separator Electromagnetic
+gt.blockmachines.basicmachine.electromagneticseparator.tier.12.name=UMV Separator Electromagnetic
+
+gt.blockmachines.basicmachine.extractor.tier.01.name=LV Extractor
+gt.blockmachines.basicmachine.extractor.tier.02.name=MV Extractor
+gt.blockmachines.basicmachine.extractor.tier.03.name=HV Extractor
+gt.blockmachines.basicmachine.extractor.tier.04.name=EV Extractor
+gt.blockmachines.basicmachine.extractor.tier.05.name=IV Extractor
+gt.blockmachines.basicmachine.extractor.tier.06.name=LuV Extractor
+gt.blockmachines.basicmachine.extractor.tier.07.name=ZPM Extractor
+gt.blockmachines.basicmachine.extractor.tier.08.name=UV Extractor
+gt.blockmachines.basicmachine.extractor.tier.09.name=UHV Extractor
+gt.blockmachines.basicmachine.extractor.tier.10.name=UEV Extractor
+gt.blockmachines.basicmachine.extractor.tier.11.name=UIV Extractor
+gt.blockmachines.basicmachine.extractor.tier.12.name=UMV Extractor
+
+gt.blockmachines.basicmachine.extruder.tier.01.name=LV Extruder
+gt.blockmachines.basicmachine.extruder.tier.02.name=MV Extruder
+gt.blockmachines.basicmachine.extruder.tier.03.name=HV Extruder
+gt.blockmachines.basicmachine.extruder.tier.04.name=EV Extruder
+gt.blockmachines.basicmachine.extruder.tier.05.name=IV Extruder
+gt.blockmachines.basicmachine.extruder.tier.06.name=LuV Extruder
+gt.blockmachines.basicmachine.extruder.tier.07.name=ZPM Extruder
+gt.blockmachines.basicmachine.extruder.tier.08.name=UV Extruder
+gt.blockmachines.basicmachine.extruder.tier.09.name=UHV Extruder
+gt.blockmachines.basicmachine.extruder.tier.10.name=UEV Extruder
+gt.blockmachines.basicmachine.extruder.tier.11.name=UIV Extruder
+gt.blockmachines.basicmachine.extruder.tier.12.name=UMV Extruder
+
+gt.blockmachines.basicmachine.fermenter.tier.01.name=LV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.02.name=MV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.03.name=HV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.04.name=EV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.05.name=IV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.06.name=LuV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.07.name=ZPM Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.08.name=UV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.09.name=UHV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.10.name=UEV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.11.name=UIV Fermenter
+gt.blockmachines.basicmachine.fermenter.tier.12.name=UMV Fermenter
+
+gt.blockmachines.basicmachine.fluidcanner.tier.01.name=LV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.02.name=MV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.03.name=HV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.04.name=EV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.05.name=IV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.06.name=LuV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.07.name=ZPM Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.08.name=UV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.09.name=UHV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.10.name=UEV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.11.name=UIV Bottler
+gt.blockmachines.basicmachine.fluidcanner.tier.12.name=UMV Bottler
+
+gt.blockmachines.basicmachine.fluidextractor.tier.01.name=LV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.02.name=MV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.03.name=HV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.04.name=EV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.05.name=IV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.06.name=LuV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.07.name=ZPM Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.08.name=UV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.09.name=UHV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.10.name=UEV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.11.name=UIV Melter
+gt.blockmachines.basicmachine.fluidextractor.tier.12.name=UMV Melter
+
+gt.blockmachines.basicmachine.fluidheater.tier.01.name=LV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.02.name=MV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.03.name=HV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.04.name=EV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.05.name=IV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.06.name=LuV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.07.name=ZPM Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.08.name=UV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.09.name=UHV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.10.name=UEV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.11.name=UIV Heater Fluid
+gt.blockmachines.basicmachine.fluidheater.tier.12.name=UMV Heater Fluid
+
+gt.blockmachines.basicmachine.fluidsolidifier.tier.01.name=LV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.02.name=MV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.03.name=HV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.04.name=EV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.05.name=IV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.06.name=LuV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.07.name=ZPM Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.08.name=UV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.09.name=UHV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.10.name=UEV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.11.name=UIV Solidifier Fluid
+gt.blockmachines.basicmachine.fluidsolidifier.tier.12.name=UMV Solidifier Fluid
+
+gt.blockmachines.basicmachine.hammer.tier.01.name=LV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.02.name=MV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.03.name=HV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.04.name=EV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.05.name=IV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.06.name=LuV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.07.name=ZPM Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.08.name=UV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.09.name=UHV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.10.name=UEV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.11.name=UIV Forge Hammer
+gt.blockmachines.basicmachine.hammer.tier.12.name=UMV Forge Hammer
+
+gt.blockmachines.basicmachine.laserengraver.tier.01.name=LV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.02.name=MV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.03.name=HV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.04.name=EV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.05.name=IV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.06.name=LuV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.07.name=ZPM Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.08.name=UV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.09.name=UHV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.10.name=UEV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.11.name=UIV Engraver Precision Laser
+gt.blockmachines.basicmachine.laserengraver.tier.12.name=UMV Engraver Precision Laser
+
+gt.blockmachines.basicmachine.lathe.tier.01.name=LV Lathe
+gt.blockmachines.basicmachine.lathe.tier.02.name=MV Lathe
+gt.blockmachines.basicmachine.lathe.tier.03.name=HV Lathe
+gt.blockmachines.basicmachine.lathe.tier.04.name=EV Lathe
+gt.blockmachines.basicmachine.lathe.tier.05.name=IV Lathe
+gt.blockmachines.basicmachine.lathe.tier.06.name=LuV Lathe
+gt.blockmachines.basicmachine.lathe.tier.07.name=ZPM Lathe
+gt.blockmachines.basicmachine.lathe.tier.08.name=UV Lathe
+gt.blockmachines.basicmachine.lathe.tier.09.name=UHV Lathe
+gt.blockmachines.basicmachine.lathe.tier.10.name=UEV Lathe
+gt.blockmachines.basicmachine.lathe.tier.11.name=UIV Lathe
+gt.blockmachines.basicmachine.lathe.tier.12.name=UMV Lathe
+
+gt.blockmachines.basicmachine.macerator.tier.01.name=LV Macerator
+gt.blockmachines.basicmachine.macerator.tier.02.name=MV Macerator
+gt.blockmachines.basicmachine.macerator.tier.03.name=HV Macerator
+gt.blockmachines.basicmachine.macerator.tier.04.name=EV Macerator
+gt.blockmachines.basicmachine.macerator.tier.05.name=IV Macerator
+gt.blockmachines.basicmachine.macerator.tier.06.name=LuV Macerator
+gt.blockmachines.basicmachine.macerator.tier.07.name=ZPM Macerator
+gt.blockmachines.basicmachine.macerator.tier.08.name=UV Macerator
+gt.blockmachines.basicmachine.macerator.tier.09.name=UHV Macerator
+gt.blockmachines.basicmachine.macerator.tier.10.name=UEV Macerator
+gt.blockmachines.basicmachine.macerator.tier.11.name=UIV Macerator
+gt.blockmachines.basicmachine.macerator.tier.12.name=UMV Macerator
+
+gt.blockmachines.basicmachine.massfab.tier.01.name=LV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.02.name=MV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.03.name=HV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.04.name=EV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.05.name=IV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.06.name=LuV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.07.name=ZPM Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.08.name=UV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.09.name=UHV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.10.name=UEV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.11.name=UIV Mass Fabricator
+gt.blockmachines.basicmachine.massfab.tier.12.name=UMV Mass Fabricator
+
+gt.blockmachines.basicmachine.microwave.tier.01.name=LV Microwave
+gt.blockmachines.basicmachine.microwave.tier.02.name=MV Microwave
+gt.blockmachines.basicmachine.microwave.tier.03.name=HV Microwave
+gt.blockmachines.basicmachine.microwave.tier.04.name=EV Microwave
+gt.blockmachines.basicmachine.microwave.tier.05.name=IV Microwave
+gt.blockmachines.basicmachine.microwave.tier.06.name=LuV Microwave
+gt.blockmachines.basicmachine.microwave.tier.07.name=ZPM Microwave
+gt.blockmachines.basicmachine.microwave.tier.08.name=UV Microwave
+gt.blockmachines.basicmachine.microwave.tier.09.name=UHV Microwave
+gt.blockmachines.basicmachine.microwave.tier.10.name=UEV Microwave
+gt.blockmachines.basicmachine.microwave.tier.11.name=UIV Microwave
+gt.blockmachines.basicmachine.microwave.tier.12.name=UMV Microwave
+
+gt.blockmachines.basicmachine.miner.tier.01.name=LV Miner
+gt.blockmachines.basicmachine.miner.tier.02.name=MV Miner
+gt.blockmachines.basicmachine.miner.tier.03.name=HV Miner
+
+gt.blockmachines.basicmachine.mixer.tier.01.name=LV Mixer
+gt.blockmachines.basicmachine.mixer.tier.02.name=MV Mixer
+gt.blockmachines.basicmachine.mixer.tier.03.name=HV Mixer
+gt.blockmachines.basicmachine.mixer.tier.04.name=EV Mixer
+gt.blockmachines.basicmachine.mixer.tier.05.name=IV Mixer
+gt.blockmachines.basicmachine.mixer.tier.06.name=LuV Mixer
+gt.blockmachines.basicmachine.mixer.tier.07.name=ZPM Mixer
+gt.blockmachines.basicmachine.mixer.tier.08.name=UV Mixer
+gt.blockmachines.basicmachine.mixer.tier.09.name=UHV Mixer
+gt.blockmachines.basicmachine.mixer.tier.10.name=UEV Mixer
+gt.blockmachines.basicmachine.mixer.tier.11.name=UIV Mixer
+gt.blockmachines.basicmachine.mixer.tier.12.name=UMV Mixer
+
+gt.blockmachines.basicmachine.mobrep.tier.01.name=LV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.02.name=MV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.03.name=HV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.04.name=EV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.05.name=IV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.06.name=LuV Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.07.name=ZPM Monster Repellator
+gt.blockmachines.basicmachine.mobrep.tier.08.name=UV Monster Repellator
+
+gt.blockmachines.basicmachine.orewasher.tier.01.name=LV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.02.name=MV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.03.name=HV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.04.name=EV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.05.name=IV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.06.name=LuV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.07.name=ZPM Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.08.name=UV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.09.name=UHV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.10.name=UEV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.11.name=UIV Ore Washing Plant
+gt.blockmachines.basicmachine.orewasher.tier.12.name=UMV Ore Washing Plant
+
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.01.name=LV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.02.name=MV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.03.name=HV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.04.name=EV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.05.name=IV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.06.name=LuV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.07.name=ZPM Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.08.name=UV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.09.name=UHV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.10.name=UEV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.11.name=UIV Plasma Arc Furnace
+gt.blockmachines.basicmachine.plasmaarcfurnace.tier.12.name=UMV Plasma Arc Furnace
+
+gt.blockmachines.basicmachine.polarizer.tier.01.name=LV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.02.name=MV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.03.name=HV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.04.name=EV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.05.name=IV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.06.name=LuV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.07.name=ZPM Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.08.name=UV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.09.name=UHV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.10.name=UEV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.11.name=UIV Polarizer
+gt.blockmachines.basicmachine.polarizer.tier.12.name=UMV Polarizer
+
+gt.blockmachines.basicmachine.press.tier.01.name=LV Forming Press
+gt.blockmachines.basicmachine.press.tier.02.name=MV Forming Press
+gt.blockmachines.basicmachine.press.tier.03.name=HV Forming Press
+gt.blockmachines.basicmachine.press.tier.04.name=EV Forming Press
+gt.blockmachines.basicmachine.press.tier.05.name=IV Forming Press
+gt.blockmachines.basicmachine.press.tier.06.name=LuV Forming Press
+gt.blockmachines.basicmachine.press.tier.07.name=ZPM Forming Press
+gt.blockmachines.basicmachine.press.tier.08.name=UV Forming Press
+gt.blockmachines.basicmachine.press.tier.09.name=UHV Forming Press
+gt.blockmachines.basicmachine.press.tier.10.name=UEV Forming Press
+gt.blockmachines.basicmachine.press.tier.11.name=UIV Forming Press
+gt.blockmachines.basicmachine.press.tier.12.name=UMV Forming Press
+
+gt.blockmachines.basicmachine.printer.tier.01.name=LV Printer
+gt.blockmachines.basicmachine.printer.tier.02.name=MV Printer
+gt.blockmachines.basicmachine.printer.tier.03.name=HV Printer
+gt.blockmachines.basicmachine.printer.tier.04.name=EV Printer
+gt.blockmachines.basicmachine.printer.tier.05.name=IV Printer
+
+gt.blockmachines.basicmachine.pump.tier.01.name=LV Pump
+gt.blockmachines.basicmachine.pump.tier.02.name=MV Pump
+gt.blockmachines.basicmachine.pump.tier.03.name=HV Pump
+gt.blockmachines.basicmachine.pump.tier.04.name=EV Pump
+gt.blockmachines.basicmachine.pump.tier.05.name=IV Pump
+gt.blockmachines.basicmachine.pump.tier.06.name=LuV Pump
+gt.blockmachines.basicmachine.pump.tier.07.name=ZPM Pump
+
+gt.blockmachines.basicmachine.recycler.tier.01.name=LV Recycler
+gt.blockmachines.basicmachine.recycler.tier.02.name=MV Recycler
+gt.blockmachines.basicmachine.recycler.tier.03.name=HV Recycler
+gt.blockmachines.basicmachine.recycler.tier.04.name=EV Recycler
+gt.blockmachines.basicmachine.recycler.tier.05.name=IV Recycler
+gt.blockmachines.basicmachine.recycler.tier.06.name=LuV Recycler
+gt.blockmachines.basicmachine.recycler.tier.07.name=ZPM Recycler
+gt.blockmachines.basicmachine.recycler.tier.08.name=UV Recycler
+gt.blockmachines.basicmachine.recycler.tier.09.name=UHV Recycler
+gt.blockmachines.basicmachine.recycler.tier.10.name=UEV Recycler
+gt.blockmachines.basicmachine.recycler.tier.11.name=UIV Recycler
+gt.blockmachines.basicmachine.recycler.tier.12.name=UMV Recycler
+
+gt.blockmachines.basicmachine.replicator.tier.01.name=LV Replicator
+gt.blockmachines.basicmachine.replicator.tier.02.name=MV Replicator
+gt.blockmachines.basicmachine.replicator.tier.03.name=HV Replicator
+gt.blockmachines.basicmachine.replicator.tier.04.name=EV Replicator
+gt.blockmachines.basicmachine.replicator.tier.05.name=IV Replicator
+gt.blockmachines.basicmachine.replicator.tier.06.name=LuV Replicator
+gt.blockmachines.basicmachine.replicator.tier.07.name=ZPM Replicator
+gt.blockmachines.basicmachine.replicator.tier.08.name=UV Replicator
+gt.blockmachines.basicmachine.replicator.tier.09.name=UHV Replicator
+gt.blockmachines.basicmachine.replicator.tier.10.name=UEV Replicator
+gt.blockmachines.basicmachine.replicator.tier.11.name=UIV Replicator
+gt.blockmachines.basicmachine.replicator.tier.12.name=UMV Replicator
+
+gt.blockmachines.basicmachine.rockbreaker.tier.01.name=LV Rock Breaker
+gt.blockmachines.basicmachine.rockbreaker.tier.02.name=MV Rock Breaker
+gt.blockmachines.basicmachine.rockbreaker.tier.03.name=HV Rock Breaker
+gt.blockmachines.basicmachine.rockbreaker.tier.04.name=EV Rock Breaker
+gt.blockmachines.basicmachine.rockbreaker.tier.05.name=IV Rock Breaker
+
+gt.blockmachines.basicmachine.scanner.tier.01.name=LV Scanner
+gt.blockmachines.basicmachine.scanner.tier.02.name=MV Scanner
+gt.blockmachines.basicmachine.scanner.tier.03.name=HV Scanner
+gt.blockmachines.basicmachine.scanner.tier.04.name=EV Scanner
+gt.blockmachines.basicmachine.scanner.tier.05.name=IV Scanner
+gt.blockmachines.basicmachine.scanner.tier.06.name=LuV Scanner
+gt.blockmachines.basicmachine.scanner.tier.07.name=ZPM Scanner
+gt.blockmachines.basicmachine.scanner.tier.08.name=UV Scanner
+gt.blockmachines.basicmachine.scanner.tier.09.name=UHV Scanner
+gt.blockmachines.basicmachine.scanner.tier.10.name=UEV Scanner
+gt.blockmachines.basicmachine.scanner.tier.11.name=UIV Scanner
+gt.blockmachines.basicmachine.scanner.tier.12.name=UMV Scanner
+
+gt.blockmachines.basicmachine.sifter.tier.01.name=LV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.02.name=MV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.03.name=HV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.04.name=EV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.05.name=IV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.06.name=LuV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.07.name=ZPM Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.08.name=UV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.09.name=UHV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.10.name=UEV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.11.name=UIV Sifting Machine
+gt.blockmachines.basicmachine.sifter.tier.12.name=UMV Sifting Machine
+
+gt.blockmachines.basicmachine.slicer.tier.01.name=LV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.02.name=MV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.03.name=HV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.04.name=EV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.05.name=IV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.06.name=LuV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.07.name=ZPM Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.08.name=UV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.09.name=UHV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.10.name=UEV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.11.name=UIV Slicing Machine
+gt.blockmachines.basicmachine.slicer.tier.12.name=UMV Slicing Machine
+
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.01.name=LV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.02.name=MV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.03.name=HV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.04.name=EV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.05.name=IV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.06.name=LuV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.07.name=ZPM Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.08.name=UV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.09.name=UHV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.10.name=UEV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.11.name=UIV Thermal Centrifuge
+gt.blockmachines.basicmachine.thermalcentrifuge.tier.12.name=UMV Thermal Centrifuge
+
+gt.blockmachines.basicmachine.unboxinator.tier.01.name=LV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.02.name=MV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.03.name=HV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.04.name=EV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.05.name=IV Unpackager
+
+gt.blockmachines.basicmachine.wiremill.tier.01.name=LV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.02.name=MV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.03.name=HV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.04.name=EV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.05.name=IV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.06.name=LuV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.07.name=ZPM Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.08.name=UV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.09.name=UHV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.10.name=UEV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.11.name=UIV Wiremill
+gt.blockmachines.basicmachine.wiremill.tier.12.name=UMV Wiremill
+
+gt.blockmachines.batterybuffer.01.tier.00.name=1A ULV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.01.name=1A LV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.02.name=1A MV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.03.name=1A HV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.04.name=1A EV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.05.name=1A IV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.06.name=1A LuV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.07.name=1A ZPM Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.08.name=1A UV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.09.name=1A UHV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.10.name=1A UEV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.11.name=1A UIV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.12.name=1A UMV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.13.name=1A UXV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.14.name=1A OpV Battery Buffer
+gt.blockmachines.batterybuffer.01.tier.15.name=1A MAX Battery Buffer
+
+gt.blockmachines.batterybuffer.04.tier.00.name=4A ULV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.01.name=4A LV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.02.name=4A MV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.03.name=4A HV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.04.name=4A EV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.05.name=4A IV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.06.name=4A LuV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.07.name=4A ZPM Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.08.name=4A UV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.09.name=4A UHV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.10.name=4A UEV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.11.name=4A UIV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.12.name=4A UMV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.13.name=4A UXV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.14.name=4A OpV Battery Buffer
+gt.blockmachines.batterybuffer.04.tier.15.name=4A MAX Battery Buffer
+
+gt.blockmachines.batterybuffer.09.tier.00.name=9A ULV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.01.name=9A LV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.02.name=9A MV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.03.name=9A HV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.04.name=9A EV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.05.name=9A IV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.06.name=9A LuV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.07.name=9A ZPM Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.08.name=9A UV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.09.name=9A UHV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.10.name=9A UEV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.11.name=9A UIV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.12.name=9A UMV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.13.name=9A UXV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.14.name=9A OpV Battery Buffer
+gt.blockmachines.batterybuffer.09.tier.15.name=9A MAX Battery Buffer
+
+gt.blockmachines.batterybuffer.16.tier.00.name=16A ULV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.01.name=16A LV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.02.name=16A MV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.03.name=16A HV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.04.name=16A EV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.05.name=16A IV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.06.name=16A LuV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.07.name=16A ZPM Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.08.name=16A UV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.09.name=16A UHV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.10.name=16A UEV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.11.name=16A UIV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.12.name=16A UMV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.13.name=16A UXV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.14.name=16A OpV Battery Buffer
+gt.blockmachines.batterybuffer.16.tier.15.name=16A MAX Battery Buffer
+
+gt.blockmachines.batterycharger.16.tier.00.name=ULV Battery Charger 
+gt.blockmachines.batterycharger.16.tier.01.name=LV Battery Charger
+gt.blockmachines.batterycharger.16.tier.02.name=MV Battery Charger
+gt.blockmachines.batterycharger.16.tier.03.name=HV Battery Charger
+gt.blockmachines.batterycharger.16.tier.04.name=EV Battery Charger
+gt.blockmachines.batterycharger.16.tier.05.name=IV Battery Charger
+gt.blockmachines.batterycharger.16.tier.06.name=LuV Battery Charger
+gt.blockmachines.batterycharger.16.tier.07.name=ZPM Battery Charger
+gt.blockmachines.batterycharger.16.tier.08.name=UV Battery Charger
+gt.blockmachines.batterycharger.16.tier.09.name=UHV Battery Charger
+gt.blockmachines.batterycharger.16.tier.10.name=UEV Battery Charger
+gt.blockmachines.batterycharger.16.tier.11.name=UIV Battery Charger
+gt.blockmachines.batterycharger.16.tier.12.name=UMV Battery Charger
+
+gt.blockmachines.batteryturbocharger.16.tier.00.name=ULV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.01.name=LV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.02.name=MV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.03.name=HV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.04.name=EV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.05.name=IV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.06.name=LuV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.07.name=ZPM Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.08.name=UV Turbo Charger
+gt.blockmachines.batteryturbocharger.16.tier.09.name=UHV Turbo Charger
+
+gt.blockmachines.transformer.tier.00.name=ULV Transformer
+gt.blockmachines.transformer.tier.01.name=LV Transformer
+gt.blockmachines.transformer.tier.02.name=MV Transformer
+gt.blockmachines.transformer.tier.03.name=HV Transformer
+gt.blockmachines.transformer.tier.04.name=EV Transformer
+gt.blockmachines.transformer.tier.05.name=IV Transformer
+gt.blockmachines.transformer.tier.06.name=LuV Transformer
+gt.blockmachines.transformer.tier.07.name=ZPM Transformer
+gt.blockmachines.transformer.tier.08.name=UV Transformer
+gt.blockmachines.transformer.tier.09.name=UHV Transformer
+gt.blockmachines.transformer.tier.10.name=UEV Transformer
+gt.blockmachines.transformer.tier.11.name=UIV Transformer
+gt.blockmachines.transformer.tier.12.name=UMV Transformer
+gt.blockmachines.transformer.tier.13.name=UXV Transformer
+gt.blockmachines.transformer.tier.14.name=OpV Transformer
+
+gt.blockmachines.transformer.ha.tier.00.name=Hi-Amp ULV Transformer
+gt.blockmachines.transformer.ha.tier.01.name=Hi-Amp LV Transformer
+gt.blockmachines.transformer.ha.tier.02.name=Hi-Amp MV Transformer
+gt.blockmachines.transformer.ha.tier.03.name=Hi-Amp HV Transformer
+gt.blockmachines.transformer.ha.tier.04.name=Hi-Amp EV Transformer
+gt.blockmachines.transformer.ha.tier.05.name=Hi-Amp IV Transformer
+gt.blockmachines.transformer.ha.tier.06.name=Hi-Amp LuV Transformer
+gt.blockmachines.transformer.ha.tier.07.name=Hi-Amp ZPM Transformer
+gt.blockmachines.transformer.ha.tier.08.name=Hi-Amp UV Transformer
+gt.blockmachines.transformer.ha.tier.09.name=Hi-Amp UHV Transformer
+gt.blockmachines.transformer.ha.tier.10.name=Hi-Amp UEV Transformer
+gt.blockmachines.transformer.ha.tier.11.name=Hi-Amp UIV Transformer
+gt.blockmachines.transformer.ha.tier.12.name=Hi-Amp UMV Transformer
+gt.blockmachines.transformer.ha.tier.13.name=Hi-Amp UXV Transformer
+gt.blockmachines.transformer.ha.tier.14.name=Hi-Amp OpV Transformer
+
+gt.blockmachines.wetransformer.tier.01.name=Power LV Transformer
+gt.blockmachines.wettransformer.tier.00.name=Power ULV Transformer
+gt.blockmachines.wettransformer.tier.02.name=Power MV Transformer
+gt.blockmachines.wettransformer.tier.03.name=Power HV Transformer
+gt.blockmachines.wettransformer.tier.04.name=Power EV Transformer
+gt.blockmachines.wettransformer.tier.05.name=Power IV Transformer
+gt.blockmachines.wettransformer.tier.06.name=Power LuV Transformer
+gt.blockmachines.wettransformer.tier.07.name=Power ZPM Transformer
+gt.blockmachines.wettransformer.tier.08.name=Power UV Transformer
+gt.blockmachines.wettransformer.tier.09.name=Power UHV Transformer
+gt.blockmachines.wettransformer.tier.10.name=Power UEV Transformer
+gt.blockmachines.wettransformer.tier.11.name=Power UIV Transformer
+gt.blockmachines.wettransformer.tier.12.name=Power UMV Transformer
+gt.blockmachines.wettransformer.tier.13.name=Power UXV Transformer
+gt.blockmachines.wettransformer.tier.14.name=Power OpV Transformer
+
+gt.blockmachines.hatch.input.tier.00.name=ULV Input Hatch
+gt.blockmachines.hatch.input.tier.01.name=LV Input Hatch
+gt.blockmachines.hatch.input.tier.02.name=MV Input Hatch
+gt.blockmachines.hatch.input.tier.03.name=HV Input Hatch
+gt.blockmachines.hatch.input.tier.04.name=EV Input Hatch
+gt.blockmachines.hatch.input.tier.05.name=IV Input Hatch
+gt.blockmachines.hatch.input.tier.06.name=LuV Input Hatch
+gt.blockmachines.hatch.input.tier.07.name=ZPM Input Hatch
+gt.blockmachines.hatch.input.tier.08.name=UV Input Hatch
+gt.blockmachines.hatch.input.tier.09.name=UHV Input Hatch
+
+gt.blockmachines.hatch.input_bus.tier.00.name=ULV Input Bus
+gt.blockmachines.hatch.input_bus.tier.01.name=LV Input Bus
+gt.blockmachines.hatch.input_bus.tier.02.name=MV Input Bus
+gt.blockmachines.hatch.input_bus.tier.03.name=HV Input Bus
+gt.blockmachines.hatch.input_bus.tier.04.name=EV Input Bus
+gt.blockmachines.hatch.input_bus.tier.05.name=IV Input Bus
+gt.blockmachines.hatch.input_bus.tier.06.name=LuV Input Bus
+gt.blockmachines.hatch.input_bus.tier.07.name=ZPM Input Bus
+gt.blockmachines.hatch.input_bus.tier.08.name=UV Input Bus
+gt.blockmachines.hatch.input_bus.tier.09.name=UHV Input Bus
+
+gt.blockmachines.hatch.output.tier.00.name=ULV Output Hatch
+gt.blockmachines.hatch.output.tier.01.name=LV Output Hatch
+gt.blockmachines.hatch.output.tier.02.name=MV Output Hatch
+gt.blockmachines.hatch.output.tier.03.name=HV Output Hatch
+gt.blockmachines.hatch.output.tier.04.name=EV Output Hatch
+gt.blockmachines.hatch.output.tier.05.name=IV Output Hatch
+gt.blockmachines.hatch.output.tier.06.name=LuV Output Hatch
+gt.blockmachines.hatch.output.tier.07.name=ZPM Output Hatch
+gt.blockmachines.hatch.output.tier.08.name=UV Output Hatch
+gt.blockmachines.hatch.output.tier.09.name=UHV Output Hatch
+
+gt.blockmachines.hatch.output_bus.tier.00.name=ULV Output Bus
+gt.blockmachines.hatch.output_bus.tier.01.name=LV Output Bus
+gt.blockmachines.hatch.output_bus.tier.02.name=MV Output Bus
+gt.blockmachines.hatch.output_bus.tier.03.name=HV Output Bus
+gt.blockmachines.hatch.output_bus.tier.04.name=EV Output Bus
+gt.blockmachines.hatch.output_bus.tier.05.name=IV Output Bus
+gt.blockmachines.hatch.output_bus.tier.06.name=LuV Output Bus
+gt.blockmachines.hatch.output_bus.tier.07.name=ZPM Output Bus
+gt.blockmachines.hatch.output_bus.tier.08.name=UV Output Bus
+gt.blockmachines.hatch.output_bus.tier.09.name=UHV Output Bus
+
+gt.blockmachines.hatch.muffler.tier.01.name=LV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.02.name=MV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.03.name=HV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.04.name=EV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.05.name=IV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.06.name=LuV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.07.name=ZPM Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.08.name=UV Muffler Hatch
+gt.blockmachines.hatch.muffler.tier.09.name=UHV Muffler Hatch
+
+gt.blockmachines.hatch.energy.tier.00.name=ULV Energy Hatch
+gt.blockmachines.hatch.energy.tier.01.name=LV Energy Hatch
+gt.blockmachines.hatch.energy.tier.02.name=MV Energy Hatch
+gt.blockmachines.hatch.energy.tier.03.name=HV Energy Hatch
+gt.blockmachines.hatch.energy.tier.04.name=EV Energy Hatch
+gt.blockmachines.hatch.energy.tier.05.name=IV Energy Hatch
+gt.blockmachines.hatch.energy.tier.06.name=LuV Energy Hatch
+gt.blockmachines.hatch.energy.tier.07.name=ZPM Energy Hatch
+gt.blockmachines.hatch.energy.tier.08.name=UV Energy Hatch
+gt.blockmachines.hatch.energy.tier.09.name=UHV Energy Hatch
+gt.blockmachines.hatch.energy.tier.10.name=UEV Energy Hatch
+gt.blockmachines.hatch.energy.tier.11.name=UIV Energy Hatch
+gt.blockmachines.hatch.energy.tier.12.name=UMV Energy Hatch
+
+gt.blockmachines.hatch.energymulti04.tier.05.name=4A IV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.06.name=4A LuV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.07.name=4A ZPM Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.08.name=4A UV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.09.name=4A UHV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.10.name=4A UEV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.11.name=4A UIV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.12.name=4A UMV Energy Hatch
+gt.blockmachines.hatch.energymulti04.tier.13.name=4A UXV Energy Hatch
+
+gt.blockmachines.hatch.energymulti16.tier.05.name=16A IV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.06.name=16A LuV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.07.name=16A ZPM Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.08.name=16A UV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.09.name=16A UHV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.10.name=16A UEV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.11.name=16A UIV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.12.name=16A UMV Energy Hatch
+gt.blockmachines.hatch.energymulti16.tier.13.name=16A UXV Energy Hatch
+
+gt.blockmachines.hatch.energymulti64.tier.05.name=64A IV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.06.name=64A LuV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.07.name=64A ZPM Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.08.name=64A UV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.09.name=64A UHV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.10.name=64A UEV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.11.name=64A UIV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.12.name=64A UMV Energy Hatch
+gt.blockmachines.hatch.energymulti64.tier.13.name=64A UXV Energy Hatch
+
+gt.blockmachines.hatch.dynamo.tier.00.name=ULV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.01.name=LV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.02.name=MV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.03.name=HV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.04.name=EV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.05.name=IV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.06.name=LuV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.07.name=ZPM Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.08.name=UV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.09.name=UHV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.10.name=UEV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.11.name=UIV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.12.name=UMV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.13.name=UXV Dynamo Hatch
+gt.blockmachines.hatch.dynamo.tier.14.name=OpV Dynamo Hatch
+
+gt.blockmachines.hatch.dynamomulti04.tier.05.name=4A IV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.06.name=4A LuV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.07.name=4A ZPM Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.08.name=4A UV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.09.name=4A UHV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.10.name=4A UEV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.11.name=4A UIV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.12.name=4A UMV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti04.tier.13.name=4A UXV Dynamo Hatch
+
+gt.blockmachines.hatch.dynamomulti16.tier.05.name=16A IV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.06.name=16A LuV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.07.name=16A ZPM Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.08.name=16A UV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.09.name=16A UHV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.10.name=16A UEV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.11.name=16A UIV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.12.name=16A UMV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti16.tier.13.name=16A UXV Dynamo Hatch
+
+gt.blockmachines.hatch.dynamomulti64.tier.05.name=64A IV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.06.name=64A LuV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.07.name=64A ZPM Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.08.name=64A UV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.09.name=64A UHV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.10.name=64A UEV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.11.name=64A UIV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.12.name=64A UMV Dynamo Hatch
+gt.blockmachines.hatch.dynamomulti64.tier.13.name=64A UXV Dynamo Hatch
+
+gt.metaitem.01.32600.name=Part LV Motor Electric
+gt.metaitem.01.32601.name=Part MV Motor Electric
+gt.metaitem.01.32602.name=Part HV Motor Electric
+gt.metaitem.01.32603.name=Part EV Motor Electric
+gt.metaitem.01.32604.name=Part IV Motor Electric
+gt.metaitem.01.32606.name=Part LuV Motor Electric
+gt.metaitem.01.32607.name=Part ZPM Motor Electric
+gt.metaitem.01.32608.name=Part UV Motor Electric
+
+MU-metaitem.01.32033.name=Part ULV Motor Electric
+MU-metaitem.01.32007.name=Part MAX Motor Electric
+
+gt.metaitem.01.32610.name=Part LV Pump Electric
+gt.metaitem.01.32611.name=Part MV Pump Electric
+gt.metaitem.01.32612.name=Part HV Pump Electric
+gt.metaitem.01.32613.name=Part EV Pump Electric
+gt.metaitem.01.32614.name=Part IV Pump Electric
+gt.metaitem.01.32615.name=Part LuV Pump Electric
+gt.metaitem.01.32616.name=Part ZPM Pump Electric
+gt.metaitem.01.32617.name=Part UV Pump Electric
+
+MU-metaitem.01.32032.name=Part ULV Pump Electric
+MU-metaitem.01.32003.name=Part MAX Pump Electric
+
+gt.metaitem.01.32630.name=Part LV Conveyor Module
+gt.metaitem.01.32631.name=Part MV Conveyor Module
+gt.metaitem.01.32632.name=Part HV Conveyor Module
+gt.metaitem.01.32633.name=Part EV Conveyor Module
+gt.metaitem.01.32634.name=Part IV Conveyor Module
+gt.metaitem.01.32635.name=Part LuV Conveyor Module
+gt.metaitem.01.32636.name=Part ZPM Conveyor Module
+gt.metaitem.01.32637.name=Part UV Conveyor Module
+
+MU-metaitem.01.32034.name=Part ULV Conveyor Module
+MU-metaitem.01.32011.name=Part MAX Conveyor Module
+
+gt.metaitem.01.32640.name=Part LV Piston Electric
+gt.metaitem.01.32641.name=Part MV Piston Electric
+gt.metaitem.01.32642.name=Part HV Piston Electric
+gt.metaitem.01.32643.name=Part EV Piston Electric
+gt.metaitem.01.32644.name=Part IV Piston Electric
+gt.metaitem.01.32645.name=Part LuV Piston Electric
+gt.metaitem.01.32646.name=Part ZPM Piston Electric
+gt.metaitem.01.32647.name=Part UV Piston Electric
+
+MU-metaitem.01.32035.name=Part ULV Piston Electric
+MU-metaitem.01.32015.name=Part MAX Piston Electric
+
+gt.metaitem.01.32650.name=Part LV Robot Arm
+gt.metaitem.01.32651.name=Part MV Robot Arm
+gt.metaitem.01.32652.name=Part HV Robot Arm
+gt.metaitem.01.32653.name=Part EV Robot Arm
+gt.metaitem.01.32654.name=Part IV Robot Arm
+gt.metaitem.01.32655.name=Part LuV Robot Arm
+gt.metaitem.01.32656.name=Part ZPM Robot Arm
+gt.metaitem.01.32657.name=Part UV Robot Arm
+
+MU-metaitem.01.32036.name=Part ULV Robot Arm
+MU-metaitem.01.32019.name=Part MAX Robot Arm
+
+gt.metaitem.01.32660.name=Part LV Fluid Regulator
+gt.metaitem.01.32661.name=Part MV Fluid Regulator
+gt.metaitem.01.32662.name=Part HV Fluid Regulator
+gt.metaitem.01.32663.name=Part EV Fluid Regulator
+gt.metaitem.01.32664.name=Part IV Fluid Regulator
+
+gt.metaitem.01.32670.name=Part LV Field Generator
+gt.metaitem.01.32671.name=Part MV Field Generator
+gt.metaitem.01.32672.name=Part HV Field Generator
+gt.metaitem.01.32673.name=Part EV Field Generator
+gt.metaitem.01.32674.name=Part IV Field Generator
+gt.metaitem.01.32675.name=Part LuV Field Generator
+gt.metaitem.01.32676.name=Part ZPM Field Generator
+gt.metaitem.01.32677.name=Part UV Field Generator
+
+MU-metaitem.01.32037.name=Part ULV Field Generator
+MU-metaitem.01.32023.name=Part MAX Field Generator
+
+gt.metaitem.01.32680.name=Part LV Emitter
+gt.metaitem.01.32681.name=Part MV Emitter
+gt.metaitem.01.32682.name=Part HV Emitter
+gt.metaitem.01.32683.name=Part EV Emitter
+gt.metaitem.01.32684.name=Part IV Emitter
+gt.metaitem.01.32685.name=Part LuV Emitter
+gt.metaitem.01.32686.name=Part ZPM Emitter
+gt.metaitem.01.32687.name=Part UV Emitter
+
+MU-metaitem.01.32038.name=Part ULV Emitter
+MU-metaitem.01.32027.name=Part MAX Emitter
+
+gt.metaitem.01.32690.name=Part LV Sensor
+gt.metaitem.01.32691.name=Part MV Sensor
+gt.metaitem.01.32692.name=Part HV Sensor
+gt.metaitem.01.32693.name=Part EV Sensor
+gt.metaitem.01.32694.name=Part IV Sensor
+gt.metaitem.01.32695.name=Part LuV Sensor
+gt.metaitem.01.32696.name=Part ZPM Sensor
+gt.metaitem.01.32697.name=Part UV Sensor
+
+MU-metaitem.01.32039.name=Part ULV Sensor
+MU-metaitem.01.32031.name=Part MAX Sensor
+
+gt.metaitem.01.32750.name=Part Solar Panel
+gt.metaitem.01.32751.name=Part ULV Solar Panel
+gt.metaitem.01.32752.name=Part LV Solar Panel
+gt.metaitem.01.32753.name=Part MV Solar Panel
+gt.metaitem.01.32754.name=Part HV Solar Panel
+gt.metaitem.01.32755.name=Part EV Solar Panel
+gt.metaitem.01.32756.name=Part IV Solar Panel
+gt.metaitem.01.32757.name=Part LuV Solar Panel
+gt.metaitem.01.32758.name=Part ZPM Solar Panel
+gt.metaitem.01.32759.name=Part UV Solar Panel
+
+gt.metaitem.01.32702.name=T1 MV Circuit Assembly
+
+gt.metaitem.03.32078.name=Microprocessor
+
+gt.metaitem.01.32701.name=T2 LV Circuit Processor
+gt.metaitem.03.32079.name=T2 MV Circuit Assembly
+
+gt.metaitem.03.32080.name=T3 MV Circuit Processor
+gt.metaitem.01.32703.name=T3 HV Circuit Assembly
+gt.metaitem.01.32704.name=T3 EV Circuit Computer
+gt.metaitem.01.32705.name=T3 IV Circuit Mainframe
+
+gt.metaitem.03.32082.name=T4 HV Circuit Processor
+gt.metaitem.03.32083.name=T4 EV Circuit Assembly
+gt.metaitem.03.32084.name=T4 IV Circuit Computer
+gt.metaitem.01.32706.name=T4 LuV Circuit Mainframe
+
+gt.metaitem.03.32085.name=T5 EV Circuit Processor
+gt.metaitem.03.32086.name=T5 IV Circuit Assembly
+gt.metaitem.03.32087.name=T5 LuV Circuit Computer
+gt.metaitem.03.32088.name=T5 ZPM Circuit Mainframe
+
+gt.metaitem.03.32089.name=T6 IV Circuit Processor
+gt.metaitem.03.32096.name=T6 LuV Circuit Assembly
+gt.metaitem.03.32090.name=T6 ZPM Circuit Computer
+gt.metaitem.03.32091.name=T6 UV Circuit Mainframe
+
+gt.metaitem.03.32092.name=T7 LuV Circuit Processor
+gt.metaitem.03.32093.name=T7 ZPM Circuit Assembly
+gt.metaitem.03.32094.name=T7 UV Circuit Computer
+gt.metaitem.03.32095.name=T7 MAX Circuit Mainframe
+
+gt.metaitem.01.32500.name=LV Battery Hull
+gt.metaitem.01.32501.name=MV Battery Hull
+gt.metaitem.01.32502.name=HV Battery Hull
+gt.metaitem.01.32503.name=EV Battery Hull Sunnarium
+gt.metaitem.01.32504.name=IV Battery Hull Sunnarium
+gt.metaitem.01.32505.name=LuV Battery Hull Sunnarium
+gt.metaitem.01.32506.name=ZPM Battery Hull Naquadria
+gt.metaitem.01.32507.name=UV Battery Hull Naquadria
+gt.metaitem.01.32561.name=UHV Battery Hull Neutronium
+gt.metaitem.01.32562.name=UEV Battery Hull Neutronium
+gt.metaitem.01.32563.name=UIV Battery Hull Neutronium
+gt.metaitem.01.32564.name=UMV Battery Hull Plasma
+gt.metaitem.01.32565.name=UXV Battery Hull Plasma
+
+gt.metaitem.01.32510.name=LV Battery Acid
+gt.metaitem.01.32511.name=LV Battery Mercury
+gt.metaitem.01.32519.name=LV BatterySodium
+gt.metaitem.01.32517.name=LV Battery Cadmium
+gt.metaitem.01.32518.name=LV Battery Lithium
+
+gt.metaitem.01.32520.name=MV Battery Acid
+gt.metaitem.01.32521.name=MV Battery Mercury
+gt.metaitem.01.32527.name=MV Battery Cadmium
+gt.metaitem.01.32528.name=MV Battery Lithium
+gt.metaitem.01.32529.name=MV Battery Sodium
+
+gt.metaitem.01.32530.name=HV Battery Acid
+gt.metaitem.01.32531.name=HV Battery Mercury
+gt.metaitem.01.32537.name=HV Battery Cadmium
+gt.metaitem.01.32538.name=HV Battery Lithium
+gt.metaitem.01.32539.name=HV Battery Sodium
+
+gt.metaitem.01.32540.name=EV Sunnarium Battery
+
+MU-metaitem.01.32050.name=EV Battery Quad Cell Sodium
+MU-metaitem.01.32052.name=EV Battery Quad Cell Cadmium
+MU-metaitem.01.32054.name=EV Battery Quad Cell Lithium
+
+gt.metaitem.01.32545.name=IV Battery Sunnarium
+gt.metaitem.01.32597.name=IV Battery Lapotronic Energy Orb
+
+gt.metaitem.01.32550.name=LuV Battery Sunnarium
+gt.metaitem.01.32599.name=LuV Battery Lapotronic Energy Orb Cluster
+
+gt.metaitem.01.32555.name=ZPM Battery Naquadria
+gt.metaitem.01.32598.name=ZPM Battery Zero Point Module
+gt.metaitem.01.32736.name=ZPM Battery Energy Module
+
+gt.metaitem.01.32560.name=UV Battery Naquadria
+gt.metaitem.01.32737.name=UV Battery Energy Cluster
+gt.metaitem.01.32605.name=UV Battery Ultimate Battery
+
+gt.metaitem.01.32570.name=UHV Battery Neutronium
+
+gt.metaitem.01.32575.name=UEV Battery Neutronium
+
+gt.metaitem.01.32580.name=UIV Battery Neutronium
+
+gt.metaitem.01.32585.name=UMV Battery Infinity
+gt.metaitem.01.32609.name=UMV Battery Really Ultimate Battery
+
+gt.metaitem.01.32590.name=UXV Battery Infinity
