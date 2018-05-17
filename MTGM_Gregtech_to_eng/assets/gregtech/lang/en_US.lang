@@ -1,3 +1,10 @@
+# Created by Usernm.
+
+gt.blockmachines.hull.bronze.name=LP Steam Bronze Hull
+gt.blockmachines.hull.bronze_bricked.name=LP Steam Bricked Bronze Hull
+gt.blockmachines.hull.steel.name=HP Steam Steel Hull
+gt.blockmachines.hull.steel_bricked.name=HP Steam Bricked Steel Hull
+
 gt.blockmachines.boiler.bronze.name=LP Steam Coal Boiler
 gt.blockmachines.boiler.lava.name=HP Steam Lava Boiler
 gt.blockmachines.boiler.solar.name=LP Steam Solar Boiler
@@ -874,6 +881,94 @@ gt.blockmachines.batteryturbocharger.16.tier.07.name=ZPM Turbo Charger
 gt.blockmachines.batteryturbocharger.16.tier.08.name=UV Turbo Charger
 gt.blockmachines.batteryturbocharger.16.tier.09.name=UHV Turbo Charger
 
+gt.blockmachines.wificharger.01.tier.single.name=LV Wireless Charger
+gt.blockmachines.wificharger.02.tier.single.name=MV Wireless Charger
+gt.blockmachines.wificharger.03.tier.single.name=HV Wireless Charger
+gt.blockmachines.wificharger.04.tier.single.name=EV Wireless Charger
+gt.blockmachines.wificharger.05.tier.single.name=IV Wireless Charger
+gt.blockmachines.wificharger.06.tier.single.name=LuV Wireless Charger
+gt.blockmachines.wificharger.07.tier.single.name=ZPM Wireless Charger
+gt.blockmachines.wificharger.08.tier.single.name=UV Wireless Charger
+gt.blockmachines.wificharger.09.tier.single.name=UHV Wireless Charger
+
+gt.blockmachines.locker.tier.00.name=ULV Locker
+gt.blockmachines.locker.tier.01.name=LV Locker
+gt.blockmachines.locker.tier.02.name=MV Locker
+gt.blockmachines.locker.tier.03.name=HV Locker
+gt.blockmachines.locker.tier.04.name=EV Locker
+gt.blockmachines.locker.tier.05.name=IV Locker
+gt.blockmachines.locker.tier.06.name=LuV Locker
+gt.blockmachines.locker.tier.07.name=ZPM Locker
+gt.blockmachines.locker.tier.08.name=UV Locker
+gt.blockmachines.locker.tier.09.name=UHV Locker
+
+gt.blockmachines.protection.playersafe.tier.00.name=ULV Player Safe
+gt.blockmachines.protection.playersafe.tier.01.name=LV Player Safe
+gt.blockmachines.protection.playersafe.tier.02.name=MV Player Safe
+gt.blockmachines.protection.playersafe.tier.03.name=HV Player Safe
+gt.blockmachines.protection.playersafe.tier.04.name=EV Player Safe
+gt.blockmachines.protection.playersafe.tier.05.name=IV Player Safe
+gt.blockmachines.protection.playersafe.tier.06.name=LuV Player Safe
+gt.blockmachines.protection.playersafe.tier.07.name=ZPM Player Safe
+gt.blockmachines.protection.playersafe.tier.08.name=UV Player Safe
+gt.blockmachines.protection.playersafe.tier.09.name=UHV Player Safe
+
+gt.blockmachines.pollutioncleaner.01.tier.single.name=ULV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.02.tier.single.name=LV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.03.tier.single.name=MV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.04.tier.single.name=HV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.05.tier.single.name=EV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.06.tier.single.name=IV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.07.tier.single.name=LuV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.08.tier.single.name=ZPM Pollution Scrubber
+gt.blockmachines.pollutioncleaner.09.tier.single.name=UV Pollution Scrubber
+gt.blockmachines.pollutioncleaner.10.tier.single.name=UHV Pollution Scrubber
+
+gt.blockmachines.energybuffer.01.tier.00.name=ULV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.01.name=LV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.02.name=MV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.03.name=HV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.04.name=EV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.05.name=IV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.06.name=LuV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.07.name=ZPM Energy Buffer
+gt.blockmachines.energybuffer.01.tier.08.name=UV Energy Buffer
+gt.blockmachines.energybuffer.01.tier.09.name=UHV Energy Buffer
+
+gt.blockcasings.0.name=ULV Machine Casing
+gt.blockcasings.1.name=LV Machine Casing
+gt.blockcasings.2.name=MV Machine Casing
+gt.blockcasings.3.name=HV Machine Casing
+gt.blockcasings.4.name=EV Machine Casing
+gt.blockcasings.5.name=IV Machine Casing
+gt.blockcasings.6.name=LuV Machine Casing
+gt.blockcasings.7.name=ZPM Machine Casing
+gt.blockcasings.8.name=UV Machine Casing
+gt.blockcasings.9.name=UHV Machine Casing
+gt.blockcasingsNH.10.name=UEV Machine Casing
+gt.blockcasingsNH.11.name=UIV Machine Casing
+gt.blockcasingsNH.12.name=UMV Machine Casing
+gt.blockcasingsNH.13.name=UXV Machine Casing
+gt.blockcasingsNH.14.name=OpV Machine Casing
+gt.blockcasingsNH.15.name=MAX Machine Casing
+
+gt.blockmachines.hull.tier.00.name=ULV Machine Hull
+gt.blockmachines.hull.tier.01.name=LV Machine Hull
+gt.blockmachines.hull.tier.02.name=MV Machine Hull
+gt.blockmachines.hull.tier.03.name=HV Machine Hull
+gt.blockmachines.hull.tier.04.name=EV Machine Hull
+gt.blockmachines.hull.tier.05.name=IV Machine Hull
+gt.blockmachines.hull.tier.06.name=LuV Machine Hull
+gt.blockmachines.hull.tier.07.name=ZPM Machine Hull
+gt.blockmachines.hull.tier.08.name=UV Machine Hull
+gt.blockmachines.hull.tier.09.name=UHV Machine Hull
+gt.blockmachines.hull.tier.10.name=UEV Machine Hull
+gt.blockmachines.hull.tier.11.name=UIV Machine Hull
+gt.blockmachines.hull.tier.12.name=UMV Machine Hull
+gt.blockmachines.hull.tier.13.name=UXV Machine Hull
+gt.blockmachines.hull.tier.14.name=OpV Machine Hull
+gt.blockmachines.hull.tier.15.name=MAX Machine Hull
+
 gt.blockmachines.transformer.tier.00.name=ULV Transformer
 gt.blockmachines.transformer.tier.01.name=LV Transformer
 gt.blockmachines.transformer.tier.02.name=MV Transformer
@@ -1222,8 +1317,11 @@ gt.metaitem.01.32507.name=UV Battery Hull Naquadria
 gt.metaitem.01.32561.name=UHV Battery Hull Neutronium
 gt.metaitem.01.32562.name=UEV Battery Hull Neutronium
 gt.metaitem.01.32563.name=UIV Battery Hull Neutronium
+
 gt.metaitem.01.32564.name=UMV Battery Hull Plasma
 gt.metaitem.01.32565.name=UXV Battery Hull Plasma
+
+gt.metaitem.01.32499.name=ULV Battery Tantalum Capacitor
 
 gt.metaitem.01.32510.name=LV Battery Acid
 gt.metaitem.01.32511.name=LV Battery Mercury
@@ -1273,3 +1371,563 @@ gt.metaitem.01.32585.name=UMV Battery Infinity
 gt.metaitem.01.32609.name=UMV Battery Really Ultimate Battery
 
 gt.metaitem.01.32590.name=UXV Battery Infinity
+
+gt.blockmachines.wire.redalloy.01.name=ULV Wire 1x Red Alloy
+gt.blockmachines.wire.redalloy.02.name=ULV Wire 2x Red Alloy
+gt.blockmachines.wire.redalloy.04.name=ULV Wire 4x Red Alloy
+gt.blockmachines.wire.redalloy.08.name=ULV Wire 8x Red Alloy
+gt.blockmachines.wire.redalloy.12.name=ULV Wire 12x Red Alloy
+gt.blockmachines.wire.redalloy.16.name=ULV Wire 16x Red Alloy
+
+gt.blockmachines.cable.redalloy.01.name=ULV Cable 1x Red Alloy
+gt.blockmachines.cable.redalloy.02.name=ULV Cable 2x Red Alloy
+gt.blockmachines.cable.redalloy.04.name=ULV Cable 4x Red Alloy
+gt.blockmachines.cable.redalloy.08.name=ULV Cable 8x Red Alloy
+gt.blockmachines.cable.redalloy.12.name=ULV Cable 12x Red Alloy
+gt.blockmachines.cable.redalloy.16.name=ULV Cable 16x Red Alloy
+
+gt.blockmachines.wire.cobalt.01.name=LV Wire 1x Cobalt
+gt.blockmachines.wire.cobalt.02.name=LV Wire 2x Cobalt
+gt.blockmachines.wire.cobalt.04.name=LV Wire 4x Cobalt
+gt.blockmachines.wire.cobalt.08.name=LV Wire 8x Cobalt
+gt.blockmachines.wire.cobalt.12.name=LV Wire 12x Cobalt
+gt.blockmachines.wire.cobalt.16.name=LV Wire 16x Cobalt
+
+gt.blockmachines.cable.cobalt.01.name=LV Cable 1x Cobalt
+gt.blockmachines.cable.cobalt.02.name=LV Cable 2x Cobalt
+gt.blockmachines.cable.cobalt.04.name=LV Cable 4x Cobalt
+gt.blockmachines.cable.cobalt.08.name=LV Cable 8x Cobalt
+gt.blockmachines.cable.cobalt.12.name=LV Cable 12x Cobalt
+gt.blockmachines.cable.cobalt.16.name=LV Cable 16x Cobalt
+
+gt.blockmachines.wire.lead.01.name=LV Wire 1x Lead
+gt.blockmachines.wire.lead.02.name=LV Wire 2x Lead
+gt.blockmachines.wire.lead.04.name=LV Wire 4x Lead
+gt.blockmachines.wire.lead.08.name=LV Wire 8x Lead
+gt.blockmachines.wire.lead.12.name=LV Wire 12x Lead
+gt.blockmachines.wire.lead.16.name=LV Wire 16x Lead
+
+gt.blockmachines.cable.lead.01.name=LV Cable 1x Lead
+gt.blockmachines.cable.lead.02.name=LV Cable 2x Lead
+gt.blockmachines.cable.lead.04.name=LV Cable 4x Lead
+gt.blockmachines.cable.lead.08.name=LV Cable 8x Lead
+gt.blockmachines.cable.lead.12.name=LV Cable 12x Lead
+gt.blockmachines.cable.lead.16.name=LV Cable 16x Lead
+
+gt.blockmachines.wire.redstonealloy.01.name=LV Wire 1x Redstone Alloy
+gt.blockmachines.wire.redstonealloy.02.name=LV Wire 2x Redstone Alloy
+gt.blockmachines.wire.redstonealloy.04.name=LV Wire 4x Redstone Alloy
+gt.blockmachines.wire.redstonealloy.08.name=LV Wire 8x Redstone Alloy
+gt.blockmachines.wire.redstonealloy.12.name=LV Wire 12x Redstone Alloy
+gt.blockmachines.wire.redstonealloy.16.name=LV Wire 16x Redstone Alloy
+
+gt.blockmachines.cable.redstonealloy.01.name=LV Cable 1x Redstone Alloy
+gt.blockmachines.cable.redstonealloy.02.name=LV Cable 2x Redstone Alloy
+gt.blockmachines.cable.redstonealloy.04.name=LV Cable 4x Redstone Alloy
+gt.blockmachines.cable.redstonealloy.08.name=LV Cable 8x Redstone Alloy
+gt.blockmachines.cable.redstonealloy.12.name=LV Cable 12x Redstone Alloy
+gt.blockmachines.cable.redstonealloy.16.name=LV Cable 16x Redstone Alloy
+
+gt.blockmachines.wire.solderingalloy.01.name=LV Wire 1x Soldering Alloy
+gt.blockmachines.wire.solderingalloy.02.name=LV Wire 2x Soldering Alloy
+gt.blockmachines.wire.solderingalloy.04.name=LV Wire 4x Soldering Alloy
+gt.blockmachines.wire.solderingalloy.08.name=LV Wire 8x Soldering Alloy
+gt.blockmachines.wire.solderingalloy.12.name=LV Wire 12x Soldering Alloy
+gt.blockmachines.wire.solderingalloy.16.name=LV Wire 16x Soldering Alloy
+
+gt.blockmachines.cable.solderingalloy.01.name=LV Cable 1x Soldering Alloy
+gt.blockmachines.cable.solderingalloy.02.name=LV Cable 2x Soldering Alloy
+gt.blockmachines.cable.solderingalloy.04.name=LV Cable 4x Soldering Alloy
+gt.blockmachines.cable.solderingalloy.08.name=LV Cable 8x Soldering Alloy
+gt.blockmachines.cable.solderingalloy.12.name=LV Cable 12x Soldering Alloy
+gt.blockmachines.cable.solderingalloy.16.name=LV Cable 16x Soldering Alloy
+
+gt.blockmachines.wire.tin.01.name=LV Wire 1x Tin
+gt.blockmachines.wire.tin.02.name=LV Wire 2x Tin
+gt.blockmachines.wire.tin.04.name=LV Wire 4x Tin
+gt.blockmachines.wire.tin.08.name=LV Wire 8x Tin
+gt.blockmachines.wire.tin.12.name=LV Wire 12x Tin
+gt.blockmachines.wire.tin.16.name=LV Wire 16x Tin
+
+gt.blockmachines.cable.tin.01.name=LV Cable 1x Tin
+gt.blockmachines.cable.tin.02.name=LV Cable 2x Tin
+gt.blockmachines.cable.tin.04.name=LV Cable 4x Tin
+gt.blockmachines.cable.tin.08.name=LV Cable 8x Tin
+gt.blockmachines.cable.tin.12.name=LV Cable 12x Tin
+gt.blockmachines.cable.tin.16.name=LV Cable 16x Tin
+
+gt.blockmachines.wire.zinc.01.name=LV Wire 1x Zinc
+gt.blockmachines.wire.zinc.02.name=LV Wire 2x Zinc
+gt.blockmachines.wire.zinc.04.name=LV Wire 4x Zinc
+gt.blockmachines.wire.zinc.08.name=LV Wire 8x Zinc
+gt.blockmachines.wire.zinc.12.name=LV Wire 12x Zinc
+gt.blockmachines.wire.zinc.16.name=LV Wire 16x Zinc
+
+gt.blockmachines.cable.zinc.01.name=LV Cable 1x Zinc
+gt.blockmachines.cable.zinc.02.name=LV Cable 2x Zinc
+gt.blockmachines.cable.zinc.04.name=LV Cable 4x Zinc
+gt.blockmachines.cable.zinc.08.name=LV Cable 8x Zinc
+gt.blockmachines.cable.zinc.12.name=LV Cable 12x Zinc
+gt.blockmachines.cable.zinc.16.name=LV Cable 16x Zinc
+
+gt.blockmachines.wire.aluminium.01.name=MV Wire 1x Aluminium
+gt.blockmachines.wire.aluminium.02.name=MV Wire 2x Aluminium
+gt.blockmachines.wire.aluminium.04.name=MV Wire 4x Aluminium
+gt.blockmachines.wire.aluminium.08.name=MV Wire 8x Aluminium
+gt.blockmachines.wire.aluminium.12.name=MV Wire 12x Aluminium
+gt.blockmachines.wire.aluminium.16.name=MV Wire 16x Aluminium
+
+gt.blockmachines.cable.aluminium.01.name=MV Cable 1x Aluminium
+gt.blockmachines.cable.aluminium.02.name=MV Cable 2x Aluminium
+gt.blockmachines.cable.aluminium.04.name=MV Cable 4x Aluminium
+gt.blockmachines.cable.aluminium.08.name=MV Cable 8x Aluminium
+gt.blockmachines.cable.aluminium.12.name=MV Cable 12x Aluminium
+gt.blockmachines.cable.aluminium.16.name=MV Cable 16x Aluminium
+
+gt.blockmachines.wire.annealedcopper.01.name=MV Wire 1x Annealed Copper
+gt.blockmachines.wire.annealedcopper.02.name=MV Wire 2x Annealed Copper
+gt.blockmachines.wire.annealedcopper.04.name=MV Wire 4x Annealed Copper
+gt.blockmachines.wire.annealedcopper.08.name=MV Wire 8x Annealed Copper
+gt.blockmachines.wire.annealedcopper.12.name=MV Wire 12x Annealed Copper
+gt.blockmachines.wire.annealedcopper.16.name=MV Wire 16x Annealed Copper
+
+gt.blockmachines.cable.annealedcopper.01.name=MV Cable 1x Annealed Copper
+gt.blockmachines.cable.annealedcopper.02.name=MV Cable 2x Annealed Copper
+gt.blockmachines.cable.annealedcopper.04.name=MV Cable 4x Annealed Copper
+gt.blockmachines.cable.annealedcopper.08.name=MV Cable 8x Annealed Copper
+gt.blockmachines.cable.annealedcopper.12.name=MV Cable 12x Annealed Copper
+gt.blockmachines.cable.annealedcopper.16.name=MV Cable 16x Annealed Copper
+
+gt.blockmachines.wire.copper.01.name=MV Wire 1x Copper
+gt.blockmachines.wire.copper.02.name=MV Wire 2x Copper
+gt.blockmachines.wire.copper.04.name=MV Wire 4x Copper
+gt.blockmachines.wire.copper.08.name=MV Wire 8x Copper
+gt.blockmachines.wire.copper.12.name=MV Wire 12x Copper
+gt.blockmachines.wire.copper.16.name=MV Wire 16x Copper
+
+gt.blockmachines.cable.copper.01.name=MV Cable 1x Copper
+gt.blockmachines.cable.copper.02.name=MV Cable 2x Copper
+gt.blockmachines.cable.copper.04.name=MV Cable 4x Copper
+gt.blockmachines.cable.copper.08.name=MV Cable 8x Copper
+gt.blockmachines.cable.copper.12.name=MV Cable 12x Copper
+gt.blockmachines.cable.copper.16.name=MV Cable 16x Copper
+
+gt.blockmachines.wire.cupronickel.01.name=MV Wire 1x Cupronickel
+gt.blockmachines.wire.cupronickel.02.name=MV Wire 2x Cupronickel
+gt.blockmachines.wire.cupronickel.04.name=MV Wire 4x Cupronickel
+gt.blockmachines.wire.cupronickel.08.name=MV Wire 8x Cupronickel
+gt.blockmachines.wire.cupronickel.12.name=MV Wire 12x Cupronickel
+gt.blockmachines.wire.cupronickel.16.name=MV Wire 16x Cupronickel
+
+gt.blockmachines.cable.cupronickel.01.name=MV Cable 1x Cupronickel
+gt.blockmachines.cable.cupronickel.02.name=MV Cable 2x Cupronickel
+gt.blockmachines.cable.cupronickel.04.name=MV Cable 4x Cupronickel
+gt.blockmachines.cable.cupronickel.08.name=MV Cable 8x Cupronickel
+gt.blockmachines.cable.cupronickel.12.name=MV Cable 12x Cupronickel
+gt.blockmachines.cable.cupronickel.16.name=MV Cable 16x Cupronickel
+
+gt.blockmachines.wire.iron.01.name=MV Wire 1x Iron
+gt.blockmachines.wire.iron.02.name=MV Wire 2x Iron
+gt.blockmachines.wire.iron.04.name=MV Wire 4x Iron
+gt.blockmachines.wire.iron.08.name=MV Wire 8x Iron
+gt.blockmachines.wire.iron.12.name=MV Wire 12x Iron
+gt.blockmachines.wire.iron.16.name=MV Wire 16x Iron
+
+gt.blockmachines.cable.iron.01.name=MV Cable 1x Iron
+gt.blockmachines.cable.iron.02.name=MV Cable 2x Iron
+gt.blockmachines.cable.iron.04.name=MV Cable 4x Iron
+gt.blockmachines.cable.iron.08.name=MV Cable 8x Iron
+gt.blockmachines.cable.iron.12.name=MV Cable 12x Iron
+gt.blockmachines.cable.iron.16.name=MV Cable 16x Iron
+
+gt.blockmachines.wire.nickel.01.name=MV Wire 1x Nickel
+gt.blockmachines.wire.nickel.02.name=MV Wire 2x Nickel
+gt.blockmachines.wire.nickel.04.name=MV Wire 4x Nickel
+gt.blockmachines.wire.nickel.08.name=MV Wire 8x Nickel
+gt.blockmachines.wire.nickel.12.name=MV Wire 12x Nickel
+gt.blockmachines.wire.nickel.16.name=MV Wire 16x Nickel
+
+gt.blockmachines.cable.nickel.01.name=MV Cable 1x Nickel
+gt.blockmachines.cable.nickel.02.name=MV Cable 2x Nickel
+gt.blockmachines.cable.nickel.04.name=MV Cable 4x Nickel
+gt.blockmachines.cable.nickel.08.name=MV Cable 8x Nickel
+gt.blockmachines.cable.nickel.12.name=MV Cable 12x Nickel
+gt.blockmachines.cable.nickel.16.name=MV Cable 16x Nickel
+
+gt.blockmachines.wire.bluealloy.01.name=HV Wire 1x Blue Alloy
+gt.blockmachines.wire.bluealloy.02.name=HV Wire 2x Blue Alloy
+gt.blockmachines.wire.bluealloy.04.name=HV Wire 4x Blue Alloy
+gt.blockmachines.wire.bluealloy.08.name=HV Wire 8x Blue Alloy
+gt.blockmachines.wire.bluealloy.12.name=HV Wire 12x Blue Alloy
+gt.blockmachines.wire.bluealloy.16.name=HV Wire 16x Blue Alloy
+
+gt.blockmachines.cable.bluealloy.01.name=HV Cable 1x Blue Alloy
+gt.blockmachines.cable.bluealloy.02.name=HV Cable 2x Blue Alloy
+gt.blockmachines.cable.bluealloy.04.name=HV Cable 4x Blue Alloy
+gt.blockmachines.cable.bluealloy.08.name=HV Cable 8x Blue Alloy
+gt.blockmachines.cable.bluealloy.12.name=HV Cable 12x Blue Alloy
+gt.blockmachines.cable.bluealloy.16.name=HV Cable 16x Blue Alloy
+
+gt.blockmachines.wire.electrum.01.name=HV Wire 1x Electrum
+gt.blockmachines.wire.electrum.02.name=HV Wire 2x Electrum
+gt.blockmachines.wire.electrum.04.name=HV Wire 4x Electrum
+gt.blockmachines.wire.electrum.08.name=HV Wire 8x Electrum
+gt.blockmachines.wire.electrum.12.name=HV Wire 12x Electrum
+gt.blockmachines.wire.electrum.16.name=HV Wire 16x Electrum
+
+gt.blockmachines.cable.electrum.01.name=HV Cable 1x Electrum
+gt.blockmachines.cable.electrum.02.name=HV Cable 2x Electrum
+gt.blockmachines.cable.electrum.04.name=HV Cable 4x Electrum
+gt.blockmachines.cable.electrum.08.name=HV Cable 8x Electrum
+gt.blockmachines.cable.electrum.12.name=HV Cable 12x Electrum
+gt.blockmachines.cable.electrum.16.name=HV Cable 16x Electrum
+
+gt.blockmachines.wire.gold.01.name=HV Wire 1x Gold
+gt.blockmachines.wire.gold.02.name=HV Wire 2x Gold
+gt.blockmachines.wire.gold.04.name=HV Wire 4x Gold
+gt.blockmachines.wire.gold.08.name=HV Wire 8x Gold
+gt.blockmachines.wire.gold.12.name=HV Wire 12x Gold
+gt.blockmachines.wire.gold.16.name=HV Wire 16x Gold
+
+gt.blockmachines.cable.gold.01.name=HV Cable 1x Gold
+gt.blockmachines.cable.gold.02.name=HV Cable 2x Gold
+gt.blockmachines.cable.gold.04.name=HV Cable 4x Gold
+gt.blockmachines.cable.gold.08.name=HV Cable 8x Gold
+gt.blockmachines.cable.gold.12.name=HV Cable 12x Gold
+gt.blockmachines.cable.gold.16.name=HV Cable 16x Gold
+
+gt.blockmachines.wire.kanthal.01.name=HV Wire 1x Kanthal
+gt.blockmachines.wire.kanthal.02.name=HV Wire 2x Kanthal
+gt.blockmachines.wire.kanthal.04.name=HV Wire 4x Kanthal
+gt.blockmachines.wire.kanthal.08.name=HV Wire 8x Kanthal
+gt.blockmachines.wire.kanthal.12.name=HV Wire 12x Kanthal
+gt.blockmachines.wire.kanthal.16.name=HV Wire 16x Kanthal
+
+gt.blockmachines.cable.kanthal.01.name=HV Cable 1x Kanthal
+gt.blockmachines.cable.kanthal.02.name=HV Cable 2x Kanthal
+gt.blockmachines.cable.kanthal.04.name=HV Cable 4x Kanthal
+gt.blockmachines.cable.kanthal.08.name=HV Cable 8x Kanthal
+gt.blockmachines.cable.kanthal.12.name=HV Cable 12x Kanthal
+gt.blockmachines.cable.kanthal.16.name=HV Cable 16x Kanthal
+
+gt.blockmachines.wire.silver.01.name=HV Wire 1x Silver
+gt.blockmachines.wire.silver.02.name=HV Wire 2x Silver
+gt.blockmachines.wire.silver.04.name=HV Wire 4x Silver
+gt.blockmachines.wire.silver.08.name=HV Wire 8x Silver
+gt.blockmachines.wire.silver.12.name=HV Wire 12x Silver
+gt.blockmachines.wire.silver.16.name=HV Wire 16x Silver
+
+gt.blockmachines.cable.silver.01.name=HV Cable 1x Silver
+gt.blockmachines.cable.silver.02.name=HV Cable 2x Silver
+gt.blockmachines.cable.silver.04.name=HV Cable 4x Silver
+gt.blockmachines.cable.silver.08.name=HV Cable 8x Silver
+gt.blockmachines.cable.silver.12.name=HV Cable 12x Silver
+gt.blockmachines.cable.silver.16.name=HV Cable 16x Silver
+
+gt.blockmachines.wire.blacksteel.01.name=EV Wire 1x Black Steel
+gt.blockmachines.wire.blacksteel.02.name=EV Wire 2x Black Steel
+gt.blockmachines.wire.blacksteel.04.name=EV Wire 4x Black Steel
+gt.blockmachines.wire.blacksteel.08.name=EV Wire 8x Black Steel
+gt.blockmachines.wire.blacksteel.12.name=EV Wire 12x Black Steel
+gt.blockmachines.wire.blacksteel.16.name=EV Wire 16x Black Steel
+
+gt.blockmachines.cable.blacksteel.01.name=EV Cable 1x Black Steel
+gt.blockmachines.cable.blacksteel.02.name=EV Cable 2x Black Steel
+gt.blockmachines.cable.blacksteel.04.name=EV Cable 4x Black Steel
+gt.blockmachines.cable.blacksteel.08.name=EV Cable 8x Black Steel
+gt.blockmachines.cable.blacksteel.12.name=EV Cable 12x Black Steel
+gt.blockmachines.cable.blacksteel.16.name=EV Cable 16x Black Steel
+
+gt.blockmachines.wire.nichrome.01.name=EV Wire 1x Nichrome
+gt.blockmachines.wire.nichrome.02.name=EV Wire 2x Nichrome
+gt.blockmachines.wire.nichrome.04.name=EV Wire 4x Nichrome
+gt.blockmachines.wire.nichrome.08.name=EV Wire 8x Nichrome
+gt.blockmachines.wire.nichrome.12.name=EV Wire 12x Nichrome
+gt.blockmachines.wire.nichrome.16.name=EV Wire 16x Nichrome
+
+gt.blockmachines.cable.nichrome.01.name=EV Cable 1x Nichrome
+gt.blockmachines.cable.nichrome.02.name=EV Cable 2x Nichrome
+gt.blockmachines.cable.nichrome.04.name=EV Cable 4x Nichrome
+gt.blockmachines.cable.nichrome.08.name=EV Cable 8x Nichrome
+gt.blockmachines.cable.nichrome.12.name=EV Cable 12x Nichrome
+gt.blockmachines.cable.nichrome.16.name=EV Cable 16x Nichrome
+
+gt.blockmachines.wire.steel.01.name=EV Wire 1x Steel
+gt.blockmachines.wire.steel.02.name=EV Wire 2x Steel
+gt.blockmachines.wire.steel.04.name=EV Wire 4x Steel
+gt.blockmachines.wire.steel.08.name=EV Wire 8x Steel
+gt.blockmachines.wire.steel.12.name=EV Wire 12x Steel
+gt.blockmachines.wire.steel.16.name=EV Wire 16x Steel
+
+gt.blockmachines.cable.steel.01.name=EV Cable 1x Steel
+gt.blockmachines.cable.steel.02.name=EV Cable 2x Steel
+gt.blockmachines.cable.steel.04.name=EV Cable 4x Steel
+gt.blockmachines.cable.steel.08.name=EV Cable 8x Steel
+gt.blockmachines.cable.steel.12.name=EV Cable 12x Steel
+gt.blockmachines.cable.steel.16.name=EV Cable 16x Steel
+
+gt.blockmachines.wire.titanium.01.name=EV Wire 1x Titanium
+gt.blockmachines.wire.titanium.02.name=EV Wire 2x Titanium
+gt.blockmachines.wire.titanium.04.name=EV Wire 4x Titanium
+gt.blockmachines.wire.titanium.08.name=EV Wire 8x Titanium
+gt.blockmachines.wire.titanium.12.name=EV Wire 12x Titanium
+gt.blockmachines.wire.titanium.16.name=EV Wire 16x Titanium
+
+gt.blockmachines.cable.titanium.01.name=EV Cable 1x Titanium
+gt.blockmachines.cable.titanium.02.name=EV Cable 2x Titanium
+gt.blockmachines.cable.titanium.04.name=EV Cable 4x Titanium
+gt.blockmachines.cable.titanium.08.name=EV Cable 8x Titanium
+gt.blockmachines.cable.titanium.12.name=EV Cable 12x Titanium
+gt.blockmachines.cable.titanium.16.name=EV Cable 16x Titanium
+
+gt.blockmachines.wire.graphene.01.name=IV Wire 1x Graphene
+gt.blockmachines.wire.graphene.02.name=IV Wire 2x Graphene
+gt.blockmachines.wire.graphene.04.name=IV Wire 4x Graphene
+gt.blockmachines.wire.graphene.08.name=IV Wire 8x Graphene
+gt.blockmachines.wire.graphene.12.name=IV Wire 12x Graphene
+gt.blockmachines.wire.graphene.16.name=IV Wire 16x Graphene
+
+gt.blockmachines.wire.osmium.01.name=IV Wire 1x Osmium
+gt.blockmachines.wire.osmium.02.name=IV Wire 2x Osmium
+gt.blockmachines.wire.osmium.04.name=IV Wire 4x Osmium
+gt.blockmachines.wire.osmium.08.name=IV Wire 8x Osmium
+gt.blockmachines.wire.osmium.12.name=IV Wire 12x Osmium
+gt.blockmachines.wire.osmium.16.name=IV Wire 16x Osmium
+
+gt.blockmachines.cable.osmium.01.name=IV Cable 1x Osmium
+gt.blockmachines.cable.osmium.02.name=IV Cable 2x Osmium
+gt.blockmachines.cable.osmium.04.name=IV Cable 4x Osmium
+gt.blockmachines.cable.osmium.08.name=IV Cable 8x Osmium
+gt.blockmachines.cable.osmium.12.name=IV Cable 12x Osmium
+gt.blockmachines.cable.osmium.16.name=IV Cable 16x Osmium
+
+gt.blockmachines.wire.platinum.01.name=IV Wire 1x Platinum
+gt.blockmachines.wire.platinum.02.name=IV Wire 2x Platinum
+gt.blockmachines.wire.platinum.04.name=IV Wire 4x Platinum
+gt.blockmachines.wire.platinum.08.name=IV Wire 8x Platinum
+gt.blockmachines.wire.platinum.12.name=IV Wire 12x Platinum
+gt.blockmachines.wire.platinum.16.name=IV Wire 16x Platinum
+
+gt.blockmachines.cable.platinum.01.name=IV Cable 1x Platinum
+gt.blockmachines.cable.platinum.02.name=IV Cable 2x Platinum
+gt.blockmachines.cable.platinum.04.name=IV Cable 4x Platinum
+gt.blockmachines.cable.platinum.08.name=IV Cable 8x Platinum
+gt.blockmachines.cable.platinum.12.name=IV Cable 12x Platinum
+gt.blockmachines.cable.platinum.16.name=IV Cable 16x Platinum
+
+gt.blockmachines.wire.tungsten.01.name=IV Wire 1x Tungsten
+gt.blockmachines.wire.tungsten.02.name=IV Wire 2x Tungsten
+gt.blockmachines.wire.tungsten.04.name=IV Wire 4x Tungsten
+gt.blockmachines.wire.tungsten.08.name=IV Wire 8x Tungsten
+gt.blockmachines.wire.tungsten.12.name=IV Wire 12x Tungsten
+gt.blockmachines.wire.tungsten.16.name=IV Wire 16x Tungsten
+
+gt.blockmachines.cable.tungsten.01.name=IV Cable 1x Tungsten
+gt.blockmachines.cable.tungsten.02.name=IV Cable 2x Tungsten
+gt.blockmachines.cable.tungsten.04.name=IV Cable 4x Tungsten
+gt.blockmachines.cable.tungsten.08.name=IV Cable 8x Tungsten
+gt.blockmachines.cable.tungsten.12.name=IV Cable 12x Tungsten
+gt.blockmachines.cable.tungsten.16.name=IV Cable 16x Tungsten
+
+gt.blockmachines.wire.tungstensteel.01.name=IV Wire 1x Tungstensteel
+gt.blockmachines.wire.tungstensteel.02.name=IV Wire 2x Tungstensteel
+gt.blockmachines.wire.tungstensteel.04.name=IV Wire 4x Tungstensteel
+gt.blockmachines.wire.tungstensteel.08.name=IV Wire 8x Tungstensteel
+gt.blockmachines.wire.tungstensteel.12.name=IV Wire 12x Tungstensteel
+gt.blockmachines.wire.tungstensteel.16.name=IV Wire 16x Tungstensteel
+
+gt.blockmachines.cable.tungstensteel.01.name=IV Cable 1x Tungstensteel
+gt.blockmachines.cable.tungstensteel.02.name=IV Cable 2x Tungstensteel
+gt.blockmachines.cable.tungstensteel.04.name=IV Cable 4x Tungstensteel
+gt.blockmachines.cable.tungstensteel.08.name=IV Cable 8x Tungstensteel
+gt.blockmachines.cable.tungstensteel.12.name=IV Cable 12x Tungstensteel
+gt.blockmachines.cable.tungstensteel.16.name=IV Cable 16x Tungstensteel
+
+gt.blockmachines.wire.hssg.01.name=LuV Wire 1x HSS-G
+gt.blockmachines.wire.hssg.02.name=LuV Wire 2x HSS-G
+gt.blockmachines.wire.hssg.04.name=LuV Wire 4x HSS-G
+gt.blockmachines.wire.hssg.08.name=LuV Wire 8x HSS-G
+gt.blockmachines.wire.hssg.12.name=LuV Wire 12x HSS-G
+gt.blockmachines.wire.hssg.16.name=LuV Wire 16x HSS-G
+
+gt.blockmachines.cable.hssg.01.name=LuV Cable 1x HSS-G
+gt.blockmachines.cable.hssg.02.name=LuV Cable 2x HSS-G
+gt.blockmachines.cable.hssg.04.name=LuV Cable 4x HSS-G
+gt.blockmachines.cable.hssg.08.name=LuV Cable 8x HSS-G
+gt.blockmachines.cable.hssg.12.name=LuV Cable 12x HSS-G
+gt.blockmachines.cable.hssg.16.name=LuV Cable 16x HSS-G
+
+gt.blockmachines.wire.niobiumtitanium.01.name=LuV Wire 1x Niobium-Titanium
+gt.blockmachines.wire.niobiumtitanium.02.name=LuV Wire 2x Niobium-Titanium
+gt.blockmachines.wire.niobiumtitanium.04.name=LuV Wire 4x Niobium-Titanium
+gt.blockmachines.wire.niobiumtitanium.08.name=LuV Wire 8x Niobium-Titanium
+gt.blockmachines.wire.niobiumtitanium.12.name=LuV Wire 12x Niobium-Titanium
+gt.blockmachines.wire.niobiumtitanium.16.name=LuV Wire 16x Niobium-Titanium
+
+gt.blockmachines.cable.niobiumtitanium.01.name=LuV Cable 1x Niobium-Titanium
+gt.blockmachines.cable.niobiumtitanium.02.name=LuV Cable 2x Niobium-Titanium
+gt.blockmachines.cable.niobiumtitanium.04.name=LuV Cable 4x Niobium-Titanium
+gt.blockmachines.cable.niobiumtitanium.08.name=LuV Cable 8x Niobium-Titanium
+gt.blockmachines.cable.niobiumtitanium.12.name=LuV Cable 12x Niobium-Titanium
+gt.blockmachines.cable.niobiumtitanium.16.name=LuV Cable 16x Niobium-Titanium
+
+gt.blockmachines.wire.vanadiumgallium.01.name=LuV Wire 1x Vanadium-Gallium
+gt.blockmachines.wire.vanadiumgallium.02.name=LuV Wire 2x Vanadium-Gallium
+gt.blockmachines.wire.vanadiumgallium.04.name=LuV Wire 4x Vanadium-Gallium
+gt.blockmachines.wire.vanadiumgallium.08.name=LuV Wire 8x Vanadium-Gallium
+gt.blockmachines.wire.vanadiumgallium.12.name=LuV Wire 12x Vanadium-Gallium
+gt.blockmachines.wire.vanadiumgallium.16.name=LuV Wire 16x Vanadium-Gallium
+
+gt.blockmachines.cable.vanadiumgallium.01.name=LuV Cable 1x Vanadium-Gallium
+gt.blockmachines.cable.vanadiumgallium.02.name=LuV Cable 2x Vanadium-Gallium
+gt.blockmachines.cable.vanadiumgallium.04.name=LuV Cable 4x Vanadium-Gallium
+gt.blockmachines.cable.vanadiumgallium.08.name=LuV Cable 8x Vanadium-Gallium
+gt.blockmachines.cable.vanadiumgallium.12.name=LuV Cable 12x Vanadium-Gallium
+gt.blockmachines.cable.vanadiumgallium.16.name=LuV Cable 16x Vanadium-Gallium
+
+gt.blockmachines.wire.yttriumbariumcuprate.01.name=LuV Wire 1x Yttrium Barium Cuprate
+gt.blockmachines.wire.yttriumbariumcuprate.02.name=LuV Wire 2x Yttrium Barium Cuprate
+gt.blockmachines.wire.yttriumbariumcuprate.04.name=LuV Wire 4x Yttrium Barium Cuprate
+gt.blockmachines.wire.yttriumbariumcuprate.08.name=LuV Wire 8x Yttrium Barium Cuprate
+gt.blockmachines.wire.yttriumbariumcuprate.12.name=LuV Wire 12x Yttrium Barium Cuprate
+gt.blockmachines.wire.yttriumbariumcuprate.16.name=LuV Wire 16x Yttrium Barium Cuprate
+
+gt.blockmachines.cable.yttriumbariumcuprate.01.name=LuV Cable 1x Yttrium Barium Cuprate
+gt.blockmachines.cable.yttriumbariumcuprate.02.name=LuV Cable 2x Yttrium Barium Cuprate
+gt.blockmachines.cable.yttriumbariumcuprate.04.name=LuV Cable 4x Yttrium Barium Cuprate
+gt.blockmachines.cable.yttriumbariumcuprate.08.name=LuV Cable 8x Yttrium Barium Cuprate
+gt.blockmachines.cable.yttriumbariumcuprate.12.name=LuV Cable 12x Yttrium Barium Cuprate
+gt.blockmachines.cable.yttriumbariumcuprate.16.name=LuV Cable 16x Yttrium Barium Cuprate
+
+gt.blockmachines.wire.naquadah.01.name=ZPM Wire 1x Naquadah
+gt.blockmachines.wire.naquadah.02.name=ZPM Wire 2x Naquadah
+gt.blockmachines.wire.naquadah.04.name=ZPM Wire 4x Naquadah
+gt.blockmachines.wire.naquadah.08.name=ZPM Wire 8x Naquadah
+gt.blockmachines.wire.naquadah.12.name=ZPM Wire 12x Naquadah
+gt.blockmachines.wire.naquadah.16.name=ZPM Wire 16x Naquadah
+
+gt.blockmachines.cable.naquadah.01.name=ZPM Cable 1x Naquadah
+gt.blockmachines.cable.naquadah.02.name=ZPM Cable 2x Naquadah
+gt.blockmachines.cable.naquadah.04.name=ZPM Cable 4x Naquadah
+gt.blockmachines.cable.naquadah.08.name=ZPM Cable 8x Naquadah
+gt.blockmachines.cable.naquadah.12.name=ZPM Cable 12x Naquadah
+gt.blockmachines.cable.naquadah.16.name=ZPM Cable 16x Naquadah
+
+gt.blockmachines.wire.duranium.01.name=UV Wire 1x Duranium
+gt.blockmachines.wire.duranium.02.name=UV Wire 2x Duranium
+gt.blockmachines.wire.duranium.04.name=UV Wire 4x Duranium
+gt.blockmachines.wire.duranium.08.name=UV Wire 8x Duranium
+gt.blockmachines.wire.duranium.12.name=UV Wire 12x Duranium
+gt.blockmachines.wire.duranium.16.name=UV Wire 16x Duranium
+
+gt.blockmachines.cable.duranium.01.name=UV Cable 1x Duranium
+gt.blockmachines.cable.duranium.02.name=UV Cable 2x Duranium
+gt.blockmachines.cable.duranium.04.name=UV Cable 4x Duranium
+gt.blockmachines.cable.duranium.08.name=UV Cable 8x Duranium
+gt.blockmachines.cable.duranium.12.name=UV Cable 12x Duranium
+gt.blockmachines.cable.duranium.16.name=UV Cable 16x Duranium
+
+gt.blockmachines.wire.electrumflux.01.name=UV Wire 1x Fluxed Electrum
+gt.blockmachines.wire.electrumflux.02.name=UV Wire 2x Fluxed Electrum
+gt.blockmachines.wire.electrumflux.04.name=UV Wire 4x Fluxed Electrum
+gt.blockmachines.wire.electrumflux.08.name=UV Wire 8x Fluxed Electrum
+gt.blockmachines.wire.electrumflux.12.name=UV Wire 12x Fluxed Electrum
+gt.blockmachines.wire.electrumflux.16.name=UV Wire 16x Fluxed Electrum
+
+gt.blockmachines.cable.electrumflux.01.name=UV Cable 1x Fluxed Electrum
+gt.blockmachines.cable.electrumflux.02.name=UV Cable 2x Fluxed Electrum
+gt.blockmachines.cable.electrumflux.04.name=UV Cable 4x Fluxed Electrum
+gt.blockmachines.cable.electrumflux.08.name=UV Cable 8x Fluxed Electrum
+gt.blockmachines.cable.electrumflux.12.name=UV Cable 12x Fluxed Electrum
+gt.blockmachines.cable.electrumflux.16.name=UV Cable 16x Fluxed Electrum
+
+gt.blockmachines.wire.naquadahalloy.01.name=UV Wire 1x Naquadah Alloy
+gt.blockmachines.wire.naquadahalloy.02.name=UV Wire 2x Naquadah Alloy
+gt.blockmachines.wire.naquadahalloy.04.name=UV Wire 4x Naquadah Alloy
+gt.blockmachines.wire.naquadahalloy.08.name=UV Wire 8x Naquadah Alloy
+gt.blockmachines.wire.naquadahalloy.12.name=UV Wire 12x Naquadah Alloy
+gt.blockmachines.wire.naquadahalloy.16.name=UV Wire 16x Naquadah Alloy
+
+gt.blockmachines.cable.naquadahalloy.01.name=UV Cable 1x Naquadah Alloy
+gt.blockmachines.cable.naquadahalloy.02.name=UV Cable 2x Naquadah Alloy
+gt.blockmachines.cable.naquadahalloy.04.name=UV Cable 4x Naquadah Alloy
+gt.blockmachines.cable.naquadahalloy.08.name=UV Cable 8x Naquadah Alloy
+gt.blockmachines.cable.naquadahalloy.12.name=UV Cable 12x Naquadah Alloy
+gt.blockmachines.cable.naquadahalloy.16.name=UV Cable 16x Naquadah Alloy
+
+gt.blockmachines.wire.bedrockium.01.name=UHV Wire 1x Bedrockium
+gt.blockmachines.wire.bedrockium.02.name=UHV Wire 2x Bedrockium
+gt.blockmachines.wire.bedrockium.04.name=UHV Wire 4x Bedrockium
+gt.blockmachines.wire.bedrockium.08.name=UHV Wire 8x Bedrockium
+gt.blockmachines.wire.bedrockium.12.name=UHV Wire 12x Bedrockium
+gt.blockmachines.wire.bedrockium.16.name=UHV Wire 16x Bedrockium
+
+gt.blockmachines.cable.bedrockium.01.name=UHV Cable 1x Bedrockium
+gt.blockmachines.cable.bedrockium.02.name=UHV Cable 2x Bedrockium
+gt.blockmachines.cable.bedrockium.04.name=UHV Cable 4x Bedrockium
+gt.blockmachines.cable.bedrockium.08.name=UHV Cable 8x Bedrockium
+gt.blockmachines.cable.bedrockium.12.name=UHV Cable 12x Bedrockium
+gt.blockmachines.cable.bedrockium.16.name=UHV Cable 16x Bedrockium
+
+gt.blockmachines.wire.superconductor.01.name=UHV Wire 1x Superconductor
+gt.blockmachines.wire.superconductor.02.name=UHV Wire 2x Superconductor
+gt.blockmachines.wire.superconductor.04.name=UHV Wire 4x Superconductor
+gt.blockmachines.wire.superconductor.08.name=UHV Wire 8x Superconductor
+gt.blockmachines.wire.superconductor.12.name=UHV Wire 12x Superconductor
+gt.blockmachines.wire.superconductor.16.name=UHV Wire 16x Superconductor
+
+gt.blockmachines.wire.draconium.01.name=UEV Wire 1x Draconium
+gt.blockmachines.wire.draconium.02.name=UEV Wire 2x Draconium
+gt.blockmachines.wire.draconium.04.name=UEV Wire 4x Draconium
+gt.blockmachines.wire.draconium.08.name=UEV Wire 8x Draconium
+gt.blockmachines.wire.draconium.12.name=UEV Wire 12x Draconium
+gt.blockmachines.wire.draconium.16.name=UEV Wire 16x Draconium
+
+gt.blockmachines.cable.draconium.01.name=UEV Cable 1x Draconium
+gt.blockmachines.cable.draconium.02.name=UEV Cable 2x Draconium
+gt.blockmachines.cable.draconium.04.name=UEV Cable 4x Draconium
+gt.blockmachines.cable.draconium.08.name=UEV Cable 8x Draconium
+gt.blockmachines.cable.draconium.12.name=UEV Cable 12x Draconium
+gt.blockmachines.cable.draconium.16.name=UEV Cable 16x Draconium
+
+gt.blockmachines.wire.netherstar.01.name=UIV Wire 1x Nether Star
+gt.blockmachines.wire.netherstar.02.name=UIV Wire 2x Nether Star
+gt.blockmachines.wire.netherstar.04.name=UIV Wire 4x Nether Star
+gt.blockmachines.wire.netherstar.08.name=UIV Wire 8x Nether Star
+gt.blockmachines.wire.netherstar.12.name=UIV Wire 12x Nether Star
+gt.blockmachines.wire.netherstar.16.name=UIV Wire 16x Nether Star
+
+gt.blockmachines.cable.netherstar.01.name=UIV Cable 1x Nether Star
+gt.blockmachines.cable.netherstar.02.name=UIV Cable 2x Nether Star
+gt.blockmachines.cable.netherstar.04.name=UIV Cable 4x Nether Star
+gt.blockmachines.cable.netherstar.08.name=UIV Cable 8x Nether Star
+gt.blockmachines.cable.netherstar.12.name=UIV Cable 12x Nether Star
+gt.blockmachines.cable.netherstar.16.name=UIV Cable 16x Nether Star
+
+gt.blockmachines.wire.quantium.01.name=UMV Wire 1x Quantium
+gt.blockmachines.wire.quantium.02.name=UMV Wire 2x Quantium
+gt.blockmachines.wire.quantium.04.name=UMV Wire 4x Quantium
+gt.blockmachines.wire.quantium.08.name=UMV Wire 8x Quantium
+gt.blockmachines.wire.quantium.12.name=UMV Wire 12x Quantium
+gt.blockmachines.wire.quantium.16.name=UMV Wire 16x Quantium
+
+gt.blockmachines.wire.blackplutonium.01.name=UXV Wire 1x Black Plutonium
+gt.blockmachines.wire.blackplutonium.02.name=UXV Wire 2x Black Plutonium
+gt.blockmachines.wire.blackplutonium.04.name=UXV Wire 4x Black Plutonium
+gt.blockmachines.wire.blackplutonium.08.name=UXV Wire 8x Black Plutonium
+gt.blockmachines.wire.blackplutonium.12.name=UXV Wire 12x Black Plutonium
+gt.blockmachines.wire.blackplutonium.16.name=UXV Wire 16x Black Plutonium
+
+gt.blockmachines.wire.draconiumawakened.01.name=OpV Wire 1x Awakened Draconium
+gt.blockmachines.wire.draconiumawakened.02.name=OpV Wire 2x Awakened Draconium
+gt.blockmachines.wire.draconiumawakened.04.name=OpV Wire 4x Awakened Draconium
+gt.blockmachines.wire.draconiumawakened.08.name=OpV Wire 8x Awakened Draconium
+gt.blockmachines.wire.draconiumawakened.12.name=OpV Wire 12x Awakened Draconium
+gt.blockmachines.wire.draconiumawakened.16.name=OpV Wire 16x Awakened Draconium
+
+gt.blockmachines.wire.infinity.01.name=MAX Wire 1x Infinity
+gt.blockmachines.wire.infinity.02.name=MAX Wire 2x Infinity
+gt.blockmachines.wire.infinity.04.name=MAX Wire 4x Infinity
+gt.blockmachines.wire.infinity.08.name=MAX Wire 8x Infinity
+gt.blockmachines.wire.infinity.12.name=MAX Wire 12x Infinity
+gt.blockmachines.wire.infinity.16.name=MAX Wire 16x Infinity
