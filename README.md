@@ -2,7 +2,8 @@
 Translate from GregTech, to usable english. Affect GregTech 5, GT++ and GT New Horizons names. If you haven't any of this mods, it's not a problem. Everything works fine on pure GregTech 5.  
 
 All machines have unified names. search "bend" to see all 12 benders. Or search "lv bend" to see exactly one machine.  
-All steam machines get "LP Steam" prefix to bronze machines and "HP Steam" prefix to steel machines. LP - Low Pressure. HP - High Pressure.  
+All steam machines get "LP Steam" prefix to bronze machines and "HP Steam" prefix to steel machines.  
+LP - Low Pressure. HP - High Pressure.  
 
 Important! Fluid extractor renamed to Melter. Canner renamed to Bottler.  
 Why? Because poor gregtech 5 gamedesing. We shouldn't have two different machines with same names. We have Extractor and Fluid extractor. And we have Canning machine and Canner.   
