@@ -774,6 +774,9 @@ gt.blockmachines.basicmachine.unboxinator.tier.02.name=MV Unpackager
 gt.blockmachines.basicmachine.unboxinator.tier.03.name=HV Unpackager
 gt.blockmachines.basicmachine.unboxinator.tier.04.name=EV Unpackager
 gt.blockmachines.basicmachine.unboxinator.tier.05.name=IV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.06.name=LuV Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.07.name=ZPM Unpackager
+gt.blockmachines.basicmachine.unboxinator.tier.08.name=UV Unpackager
 
 gt.blockmachines.basicmachine.wiremill.tier.01.name=LV Wiremill
 gt.blockmachines.basicmachine.wiremill.tier.02.name=MV Wiremill
@@ -1169,6 +1172,8 @@ gt.metaitem.01.32604.name=Part IV Motor Electric
 gt.metaitem.01.32606.name=Part LuV Motor Electric
 gt.metaitem.01.32607.name=Part ZPM Motor Electric
 gt.metaitem.01.32608.name=Part UV Motor Electric
+gt.metaitem.01.32595.name=Part UHV Motor Electric
+gt.metaitem.01.32596.name=Part UEV Motor Electric
 
 MU-metaitem.01.32033.name=Part ULV Motor Electric
 MU-metaitem.01.32007.name=Part MAX Motor Electric
@@ -1181,6 +1186,8 @@ gt.metaitem.01.32614.name=Part IV Pump Electric
 gt.metaitem.01.32615.name=Part LuV Pump Electric
 gt.metaitem.01.32616.name=Part ZPM Pump Electric
 gt.metaitem.01.32617.name=Part UV Pump Electric
+gt.metaitem.01.32618.name=Part UHV Pump Electric
+gt.metaitem.01.32619.name=Part UEV Pump Electric
 
 MU-metaitem.01.32032.name=Part ULV Pump Electric
 MU-metaitem.01.32003.name=Part MAX Pump Electric
@@ -1193,6 +1200,8 @@ gt.metaitem.01.32634.name=Part IV Conveyor Module
 gt.metaitem.01.32635.name=Part LuV Conveyor Module
 gt.metaitem.01.32636.name=Part ZPM Conveyor Module
 gt.metaitem.01.32637.name=Part UV Conveyor Module
+gt.metaitem.01.32638.name=Part UHV Conveyor Module
+gt.metaitem.01.32639.name=Part UEV Conveyor Module
 
 MU-metaitem.01.32034.name=Part ULV Conveyor Module
 MU-metaitem.01.32011.name=Part MAX Conveyor Module
@@ -1205,6 +1214,8 @@ gt.metaitem.01.32644.name=Part IV Piston Electric
 gt.metaitem.01.32645.name=Part LuV Piston Electric
 gt.metaitem.01.32646.name=Part ZPM Piston Electric
 gt.metaitem.01.32647.name=Part UV Piston Electric
+gt.metaitem.01.32648.name=Part UHV Piston Electric
+gt.metaitem.01.32649.name=Part UEV Piston Electric
 
 MU-metaitem.01.32035.name=Part ULV Piston Electric
 MU-metaitem.01.32015.name=Part MAX Piston Electric
@@ -1217,6 +1228,8 @@ gt.metaitem.01.32654.name=Part IV Robot Arm
 gt.metaitem.01.32655.name=Part LuV Robot Arm
 gt.metaitem.01.32656.name=Part ZPM Robot Arm
 gt.metaitem.01.32657.name=Part UV Robot Arm
+gt.metaitem.01.32658.name=Part UHV Robot Arm
+gt.metaitem.01.32659.name=Part UEV Robot Arm
 
 MU-metaitem.01.32036.name=Part ULV Robot Arm
 MU-metaitem.01.32019.name=Part MAX Robot Arm
@@ -1226,6 +1239,9 @@ gt.metaitem.01.32661.name=Part MV Fluid Regulator
 gt.metaitem.01.32662.name=Part HV Fluid Regulator
 gt.metaitem.01.32663.name=Part EV Fluid Regulator
 gt.metaitem.01.32664.name=Part IV Fluid Regulator
+gt.metaitem.01.32665.name=Part LuV Fluid Regulator
+gt.metaitem.01.32666.name=Part ZPM Fluid Regulator
+gt.metaitem.01.32667.name=Part UV Fluid Regulator
 
 gt.metaitem.01.32670.name=Part LV Field Generator
 gt.metaitem.01.32671.name=Part MV Field Generator
@@ -1235,6 +1251,8 @@ gt.metaitem.01.32674.name=Part IV Field Generator
 gt.metaitem.01.32675.name=Part LuV Field Generator
 gt.metaitem.01.32676.name=Part ZPM Field Generator
 gt.metaitem.01.32677.name=Part UV Field Generator
+gt.metaitem.01.32678.name=Part UHV Field Generator
+gt.metaitem.01.32679.name=Part UEV Field Generator
 
 MU-metaitem.01.32037.name=Part ULV Field Generator
 MU-metaitem.01.32023.name=Part MAX Field Generator
@@ -1247,6 +1265,8 @@ gt.metaitem.01.32684.name=Part IV Emitter
 gt.metaitem.01.32685.name=Part LuV Emitter
 gt.metaitem.01.32686.name=Part ZPM Emitter
 gt.metaitem.01.32687.name=Part UV Emitter
+gt.metaitem.01.32688.name=Part UHV Emitter
+gt.metaitem.01.32689.name=Part UEV Emitter
 
 MU-metaitem.01.32038.name=Part ULV Emitter
 MU-metaitem.01.32027.name=Part MAX Emitter
@@ -1259,6 +1279,8 @@ gt.metaitem.01.32694.name=Part IV Sensor
 gt.metaitem.01.32695.name=Part LuV Sensor
 gt.metaitem.01.32696.name=Part ZPM Sensor
 gt.metaitem.01.32697.name=Part UV Sensor
+gt.metaitem.01.32698.name=Part UHV Sensor
+gt.metaitem.01.32699.name=Part UEV Sensor
 
 MU-metaitem.01.32039.name=Part ULV Sensor
 MU-metaitem.01.32031.name=Part MAX Sensor
@@ -1273,11 +1295,43 @@ gt.metaitem.01.32756.name=Part IV Solar Panel
 gt.metaitem.01.32757.name=Part LuV Solar Panel
 gt.metaitem.01.32758.name=Part ZPM Solar Panel
 gt.metaitem.01.32759.name=Part UV Solar Panel
+gt.metaitem.03.32130.name=Part UHV Solar Panel
+gt.metaitem.03.32131.name=Part UEV Solar Panel
+gt.metaitem.03.32132.name=Part UIV Solar Panel
 
+gt.metaitem.03.32140.name=Part ULV Coil
+gt.metaitem.03.32141.name=Part LV Coil
+gt.metaitem.03.32142.name=Part MV Coil
+gt.metaitem.03.32143.name=Part HV Coil
+gt.metaitem.03.32144.name=Part EV Coil
+gt.metaitem.03.32145.name=Part IV Coil
+gt.metaitem.03.32146.name=Part LuV Coil
+gt.metaitem.03.32147.name=Part ZPM Coil
+gt.metaitem.03.32148.name=Part UV Coil
+gt.metaitem.03.32149.name=Part UHV Coil
+
+gt.metaitem.01.32710.name=T1 Substrate Circuit Board Coated
+gt.metaitem.01.32719.name=T2 Substrate Circuit Board Phenolic
+gt.metaitem.03.32007.name=T3 Substrate Circuit Board Plastic
+gt.metaitem.01.32711.name=T4 Substrate Circuit Board Epoxy
+gt.metaitem.01.32720.name=T5 Substrate Circuit Board Fiber Reinforced
+gt.metaitem.01.32712.name=T6 Substrate Circuit Board
+gt.metaitem.03.32006.name=T7 Substrate Circuit Board
+gt.metaitem.03.32008.name=T8 Substrate Circuit Board
+
+gt.metaitem.03.32100.name=T1 Printed Circuit Board
+gt.metaitem.03.32101.name=T2 Printed Circuit Board Good
+gt.metaitem.03.32106.name=T3 Printed Circuit Board Plastic
+gt.metaitem.03.32102.name=T4 Printed Circuit Board Advanced
+gt.metaitem.03.32103.name=T5 Printed Circuit Board
+gt.metaitem.03.32104.name=T6 Printed Circuit Board
+gt.metaitem.03.32105.name=T7 Printed Circuit Board
+gt.metaitem.03.32107.name=T8 Printed Circuit Board
+
+gt.metaitem.01.32700.name=T1 ULV Circuit Primitive Vacuum Tube
 gt.metaitem.01.32702.name=T1 MV Circuit Assembly
 
-gt.metaitem.03.32078.name=Microprocessor
-
+gt.metaitem.03.32075.name=T2 ULV Circuit Primitive Nand Chip
 gt.metaitem.01.32701.name=T2 LV Circuit Processor
 gt.metaitem.03.32079.name=T2 MV Circuit Assembly
 
@@ -1286,6 +1340,7 @@ gt.metaitem.01.32703.name=T3 HV Circuit Assembly
 gt.metaitem.01.32704.name=T3 EV Circuit Computer
 gt.metaitem.01.32705.name=T3 IV Circuit Mainframe
 
+gt.metaitem.03.32078.name=T4 LV Circuit Processor
 gt.metaitem.03.32082.name=T4 HV Circuit Processor
 gt.metaitem.03.32083.name=T4 EV Circuit Assembly
 gt.metaitem.03.32084.name=T4 IV Circuit Computer
@@ -1304,7 +1359,62 @@ gt.metaitem.03.32091.name=T6 UV Circuit Mainframe
 gt.metaitem.03.32092.name=T7 LuV Circuit Processor
 gt.metaitem.03.32093.name=T7 ZPM Circuit Assembly
 gt.metaitem.03.32094.name=T7 UV Circuit Computer
-gt.metaitem.03.32095.name=T7 MAX Circuit Mainframe
+gt.metaitem.03.32095.name=T7 UHV Circuit Mainframe
+
+gt.metaitem.03.32097.name=T8 ZPM Circuit Processor
+gt.metaitem.03.32098.name=T8 UV Circuit Assembly
+gt.metaitem.03.32099.name=T8 UHV Circuit Computer
+gt.metaitem.03.32120.name=T8 UIV Circuit Mainframe
+
+gt.metaitem.03.32030.name=Silicone Boule
+gt.metaitem.03.32031.name=Silicone Boule Glowstone
+gt.metaitem.03.32032.name=Silicone Boule Naquadah
+gt.metaitem.03.32150.name=Silicone Boule Europium
+gt.metaitem.03.32152.name=Silicone Boule Americium
+
+gt.metaitem.03.32033.name=Wafer Clean
+gt.metaitem.03.32034.name=Wafer Clean Glowstone
+gt.metaitem.03.32035.name=Wafer Clean Naquadah
+gt.metaitem.03.32151.name=Wafer Clean Europium
+gt.metaitem.03.32153.name=Wafer Clean Americium
+
+gt.metaitem.03.32048.name=Wafer ASoC (Advanced System on Chip)
+gt.metaitem.03.32044.name=Wafer CPU (Central Processing Unit)
+gt.metaitem.03.32052.name=Wafer HPIC (High Power Integrated Circuit)
+gt.metaitem.03.32036.name=Wafer ILC (Integrated Logic Circuit)
+gt.metaitem.03.32040.name=Wafer NAND (NAND Memory)
+gt.metaitem.03.32160.name=Wafer NPIC (Nano Power Integrated Circuit)
+gt.metaitem.03.32054.name=Wafer NCPU (Nano Central Processing Unit)
+gt.metaitem.03.32042.name=Wafer NOR (NOR Memory)
+gt.metaitem.03.32064.name=Wafer LPIC (Low Power Integrated Circuit)
+gt.metaitem.03.32162.name=Wafer PPIC (Piko Power Integrated Circuit)
+gt.metaitem.03.32050.name=Wafer PIC (Power Integrated Circuit)
+gt.metaitem.03.32056.name=Wafer QBit (Quantum Bit)
+gt.metaitem.03.32164.name=Wafer QPIC (Quantum Power Integrated Circuit)
+gt.metaitem.03.32038.name=Wafer RAM (Random Access Memory)
+gt.metaitem.03.32060.name=Wafer SSoC (Simple System on Chip)
+gt.metaitem.03.32046.name=Wafer SoC (System on Chip)
+gt.metaitem.03.32058.name=Wafer UHPIC (Ultra High Power Integrated Circuit)
+gt.metaitem.03.32062.name=Wafer ULPIC (Ultra Low Power Integrated Circuit)
+
+gt.metaitem.03.32049.name=Chip ASoC (Advanced System on Chip)
+gt.metaitem.03.32045.name=Chip CPU (Central Processing Unit)
+gt.metaitem.03.32053.name=Chip HPIC (High Power Integrated Circuit)
+gt.metaitem.03.32037.name=Chip ILC (Integrated Logic Circuit)
+gt.metaitem.03.32041.name=Chip NAND (NAND Memory)
+gt.metaitem.03.32161.name=Chip NPIC (Nano Power Integrated Circuit)
+gt.metaitem.03.32055.name=Chip NCPU (Nano Central Processing Unit)
+gt.metaitem.03.32043.name=Chip NOR (NOR Memory)
+gt.metaitem.03.32065.name=Chip LPIC (Low Power Integrated Circuit)
+gt.metaitem.03.32163.name=Chip PPIC (Piko Power Integrated Circuit)
+gt.metaitem.03.32051.name=Chip PIC (Power Integrated Circuit)
+gt.metaitem.03.32057.name=Chip QBit (Quantum Bit)
+gt.metaitem.03.32165.name=Chip QPIC (Quantum Power Integrated Circuit)
+gt.metaitem.03.32039.name=Chip RAM (Random Access Memory)
+gt.metaitem.03.32061.name=Chip SSoC (Simple System on Chip)
+gt.metaitem.03.32047.name=Chip SoC (System on Chip)
+gt.metaitem.03.32059.name=Chip UHPIC (Ultra High Power Integrated Circuit)
+gt.metaitem.03.32063.name=Chip ULPIC (Ultra Low Power Integrated Circuit)
 
 gt.metaitem.01.32500.name=LV Battery Hull
 gt.metaitem.01.32501.name=MV Battery Hull
@@ -1470,19 +1580,19 @@ gt.blockmachines.cable.zinc.08.name=LV Cable 8x Zinc
 gt.blockmachines.cable.zinc.12.name=LV Cable 12x Zinc
 gt.blockmachines.cable.zinc.16.name=LV Cable 16x Zinc
 
-gt.blockmachines.wire.aluminium.01.name=MV Wire 1x Aluminium
-gt.blockmachines.wire.aluminium.02.name=MV Wire 2x Aluminium
-gt.blockmachines.wire.aluminium.04.name=MV Wire 4x Aluminium
-gt.blockmachines.wire.aluminium.08.name=MV Wire 8x Aluminium
-gt.blockmachines.wire.aluminium.12.name=MV Wire 12x Aluminium
-gt.blockmachines.wire.aluminium.16.name=MV Wire 16x Aluminium
+gt.blockmachines.wire.aluminium.01.name=EV Wire 1x Aluminium
+gt.blockmachines.wire.aluminium.02.name=EV Wire 2x Aluminium
+gt.blockmachines.wire.aluminium.04.name=EV Wire 4x Aluminium
+gt.blockmachines.wire.aluminium.08.name=EV Wire 8x Aluminium
+gt.blockmachines.wire.aluminium.12.name=EV Wire 12x Aluminium
+gt.blockmachines.wire.aluminium.16.name=EV Wire 16x Aluminium
 
-gt.blockmachines.cable.aluminium.01.name=MV Cable 1x Aluminium
-gt.blockmachines.cable.aluminium.02.name=MV Cable 2x Aluminium
-gt.blockmachines.cable.aluminium.04.name=MV Cable 4x Aluminium
-gt.blockmachines.cable.aluminium.08.name=MV Cable 8x Aluminium
-gt.blockmachines.cable.aluminium.12.name=MV Cable 12x Aluminium
-gt.blockmachines.cable.aluminium.16.name=MV Cable 16x Aluminium
+gt.blockmachines.cable.aluminium.01.name=EV Cable 1x Aluminium
+gt.blockmachines.cable.aluminium.02.name=EV Cable 2x Aluminium
+gt.blockmachines.cable.aluminium.04.name=EV Cable 4x Aluminium
+gt.blockmachines.cable.aluminium.08.name=EV Cable 8x Aluminium
+gt.blockmachines.cable.aluminium.12.name=EV Cable 12x Aluminium
+gt.blockmachines.cable.aluminium.16.name=EV Cable 16x Aluminium
 
 gt.blockmachines.wire.annealedcopper.01.name=MV Wire 1x Annealed Copper
 gt.blockmachines.wire.annealedcopper.02.name=MV Wire 2x Annealed Copper
@@ -1931,3 +2041,85 @@ gt.blockmachines.wire.infinity.04.name=MAX Wire 4x Infinity
 gt.blockmachines.wire.infinity.08.name=MAX Wire 8x Infinity
 gt.blockmachines.wire.infinity.12.name=MAX Wire 12x Infinity
 gt.blockmachines.wire.infinity.16.name=MAX Wire 16x Infinity
+
+gt.blockmachines.energybuffer.tier.00.name=ULV Energy Buffer
+gt.blockmachines.energybuffer.tier.01.name=LV Energy Buffer
+gt.blockmachines.energybuffer.tier.02.name=MV Energy Buffer
+gt.blockmachines.energybuffer.tier.03.name=HV Energy Buffer
+gt.blockmachines.energybuffer.tier.04.name=EV Energy Buffer
+gt.blockmachines.energybuffer.tier.05.name=IV Energy Buffer
+gt.blockmachines.energybuffer.tier.06.name=LuV Energy Buffer
+gt.blockmachines.energybuffer.tier.07.name=ZPM Energy Buffer
+gt.blockmachines.energybuffer.tier.08.name=UV Energy Buffer
+gt.blockmachines.energybuffer.tier.09.name=UHV Energy Buffer
+
+gt.blockmachines.energybuffer.tier.xx.name=HV Energy Buffer Creative
+
+gt.blockmachines.acidgeneratorev.name=Generator EV Acid
+gt.blockmachines.acidgeneratorhv.name=Generator HV Acid
+gt.blockmachines.acidgeneratormv.name=Generator MV Acid
+
+gt.blockmachines.basic_crop_gene_extractor.name=LV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_i.name=MV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_ii.name=HV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_iii.name=EV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_iv.name=IV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_v.name=LuV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_vi.name=ZPM Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_vii.name=UV Crop Extractor
+gt.blockmachines.advanced_crop_gene_extractor_iix.name=UHV Crop Extractor
+
+gt.blockmachines.basic_crop_replicator.name=LV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_i.name=MV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_ii.name=HV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_iii.name=EV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_iv.name=IV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_v.name=LuV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_vi.name=ZPM Crop Replicator
+gt.blockmachines.advanced_crop_replicator_vii.name=UV Crop Replicator
+gt.blockmachines.advanced_crop_replicator_iix.name=UHV Crop Replicator
+
+gt.blockmachines.basic_crop_synthesiser.name=LV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_i.name=MV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_ii.name=HV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_iii.name=EV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_iv.name=IV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_v.name=LuV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_vi.name=ZPM Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_vii.name=UV Crop Synthesiser
+gt.blockmachines.advanced_crop_synthesiser_iix.name=UHV Crop Synthesiser
+
+gt.blockmachines.basic_cropweedpicker.name=LV CropWeedPicker
+
+gt.blockmachines.automation.superbuffer.threaded.tier.00.name=ULV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.01.name=LV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.02.name=MV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.03.name=HV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.04.name=EV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.05.name=IV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.06.name=LuV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.07.name=ZPM Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.08.name=UV Super Buffer [Threaded]
+gt.blockmachines.automation.superbuffer.threaded.tier.09.name=UHV Super Buffer [Threaded]
+
+gt.blockmachines.hatch.superbus.input.tier.00.name=ULV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.01.name=LV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.02.name=MV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.03.name=HV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.04.name=EV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.05.name=IV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.06.name=LuV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.07.name=ZPM Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.08.name=UV Super Input Bus
+gt.blockmachines.hatch.superbus.input.tier.09.name=UHV Super Input Bus
+
+gt.blockmachines.hatch.superbus.output.tier.00.name=ULV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.01.name=LV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.02.name=MV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.03.name=HV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.04.name=EV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.05.name=IV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.06.name=LuV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.07.name=ZPM Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.08.name=UV Super Output Bus
+gt.blockmachines.hatch.superbus.output.tier.09.name=UHV Super Output Bus
