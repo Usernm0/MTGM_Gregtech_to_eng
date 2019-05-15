@@ -1337,18 +1337,18 @@ gt.metaitem.03.32105.name=T7 Printed Circuit Board
 gt.metaitem.03.32107.name=T8 Printed Circuit Board
 
 gt.metaitem.01.32700.name=T1 ULV Circuit Primitive Vacuum Tube
-gt.metaitem.01.32702.name=T1 MV Circuit Assembly
+gt.metaitem.01.32702.name=T1 MV Circuit Computer
 
-gt.metaitem.03.32075.name=T2 ULV Circuit Primitive Nand Chip
+gt.metaitem.03.32075.name=T2 ULV Circuit Primitive Microchip
 gt.metaitem.01.32701.name=T2 LV Circuit Processor
 gt.metaitem.03.32079.name=T2 MV Circuit Assembly
 
+gt.metaitem.03.32078.name=T3 LV Circuit Microchip
 gt.metaitem.03.32080.name=T3 MV Circuit Processor
 gt.metaitem.01.32703.name=T3 HV Circuit Assembly
 gt.metaitem.01.32704.name=T3 EV Circuit Computer
 gt.metaitem.01.32705.name=T3 IV Circuit Mainframe
 
-gt.metaitem.03.32078.name=T4 LV Circuit Processor
 gt.metaitem.03.32082.name=T4 HV Circuit Processor
 gt.metaitem.03.32083.name=T4 EV Circuit Assembly
 gt.metaitem.03.32084.name=T4 IV Circuit Computer
