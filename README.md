@@ -16,7 +16,7 @@ Search "lv cable" to see all lv cables. To search exact cable use "1x tin"
 Battery buffers have amper prefix. Search "9a lv" to find battery buffer for 9 batteries.  
 
 Circuits.  
-Have tech process. From t1 to t7. You can search "t4" to see all green circuits.  
+Have tech process. From t1 to t8. You can search "t4" to see all green circuits.  
 Have tier. "iv circuit" show all iv circuits.  
 Have production steps:  
 One step products = circuit processor  
@@ -25,6 +25,6 @@ Three step products = circuit computer
 Four step products = circuit mainframe  
 
 Unfortunately i can't change ic2 circuits name :(  
-Basic circuit should be "T1 LV Circuit Processor"  
+Basic circuit should be "T1 LV Circuit Assembly"  
 Advanced circuit should be "T2 HV Circuit Computer"   
 
